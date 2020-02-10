@@ -1,60 +1,73 @@
 <template>
-  <v-app>
-    <v-app-bar
-      app
-      color="primary"
-      dark
-    >
-      <div class="d-flex align-center">
-        <v-img
-          alt="Vuetify Logo"
-          class="shrink mr-2"
-          contain
-          src="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-dark.png"
-          transition="scale-transition"
-          width="40"
-        />
-
-        <v-img
-          alt="Vuetify Name"
-          class="shrink mt-1 hidden-sm-and-down"
-          contain
-          min-width="100"
-          src="https://cdn.vuetifyjs.com/images/logos/vuetify-name-dark.png"
-          width="100"
-        />
+  <v-app style="background-color: #f9f7f7; padding: 5%;">
+    <div class="adviser-settings">
+      <h1 class="adviser-settings-title">Application Settings</h1>
+      <div class="adviser-settings-menu">
+        <ul class="adviser-settings-menu-list">
+          <li class="adviser-settings-menu-item">
+            <button @click="selected = 1" :class="{active:selected == 1}" class="adviser-settings-menu-item__button" type="button">
+              <router-link to="/email" tag="span">
+                <span class="link">EMAIL FORMAT</span>
+              </router-link>
+            </button>
+          </li>
+          <li class="adviser-settings-menu-item">
+          <button @click="selected = 2" :class="{active:selected == 2}" class="adviser-settings-menu-item__button" type="button">
+            <router-link to="/retirement" tag="span">
+              <span class="link">RETIREMENT</span>
+            </router-link>
+          </button>
+          </li>
+          <li class="adviser-settings-menu-item">
+            <button @click="selected = 3" :class="{active:selected == 3}" class="adviser-settings-menu-item__button" type="button">
+              <router-link to="/cash" tag="span">
+                <span class="link">CASH</span>
+              </router-link>
+            </button>
+          </li>
+          <li class="adviser-settings-menu-item">
+            <button @click="selected = 4" :class="{active:selected == 4}" class="adviser-settings-menu-item__button" type="button">
+              <router-link to="/perfect" tag="span">
+                <span class="link">PERFECT PLAN</span>
+              </router-link>
+            </button>
+          </li>
+        </ul>
       </div>
-
-      <v-spacer></v-spacer>
-
-      <v-btn
-        href="https://github.com/vuetifyjs/vuetify/releases/latest"
-        target="_blank"
-        text
-      >
-        <span class="mr-2">Latest Release</span>
-        <v-icon>mdi-open-in-new</v-icon>
-      </v-btn>
-    </v-app-bar>
-
-    <v-content>
-      <HelloWorld/>
-    </v-content>
+    </div>
+    <router-view></router-view>
   </v-app>
 </template>
 
+<style>
+  .adviser-settings {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  .link {
+    font-weight: 600;
+  }
+</style>
+
 <script>
-import HelloWorld from './components/HelloWorld';
 
 export default {
   name: 'App',
-
   components: {
-    HelloWorld,
   },
 
   data: () => ({
-    //
+    selected: undefined,
+    colors: {
+      blue: "#0094d5",
+      darkBlue: "#394e73",
+      lightBlue: "#5a79bc",
+      aqua: "#b1d3d5",
+      orange: "#ed6622",
+      yellow: "#efb423",
+      green: "#acd13a",
+      purple: "#67235f"
+    },
   }),
 };
 </script>
