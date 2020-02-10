@@ -52,6 +52,7 @@
         ></v-text-field>
       </div>
     </div>
+    <div class="text-center"><v-btn color="rgb(74, 144, 226)" class="white--text" x-large width="400px">Save</v-btn></div>
   </div>
 </template>
 
