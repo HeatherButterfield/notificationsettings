@@ -1,7 +1,7 @@
 <template>
   <v-app style="background-color: #f9f7f7; padding: 5%;">
     <div class="adviser-settings">
-      <h1 class="adviser-settings-title">Application Settings</h1>
+      <h1 class="adviser-settings-title">Notification Settings</h1>
       <div class="adviser-settings-menu">
         <ul class="adviser-settings-menu-list">
           <li class="adviser-settings-menu-item">
