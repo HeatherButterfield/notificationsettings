@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1 style="margin-bottom: 20px; margin-top: 20px;">Then</h1>
+    <h1 style="margin-bottom: 20px; margin-top: 20px;" class="text-center">Then</h1>
     <div class="line d-flex align-center">
       <h5 class="header margin">Email:</h5>
       <v-checkbox
