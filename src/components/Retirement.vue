@@ -6,7 +6,7 @@
       <ClientCriteria :retirement="true"/>
     </v-row>
     <v-row class="reset">
-      <Settings/>
+      <Settings :retirement="true"/>
     </v-row>
   </div>
 </template>

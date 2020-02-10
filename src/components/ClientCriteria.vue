@@ -22,7 +22,7 @@
           ticks="always"
         ></v-slider>
       </div>
-      <div class="d-flex item justify-space-between">
+      <div class="d-flex item justify-space-between align-center">
         <span class="margin-r">Plan</span>
         <v-checkbox
           v-model="planComplete"
