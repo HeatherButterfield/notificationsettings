@@ -1,6 +1,13 @@
 <template>
   <div>
-    <h1>Cash</h1>
+    <v-row class="flex">
+      <ChooseClients/>
+      <h1>OR</h1>
+      <ClientCriteria :cash="true"/>
+    </v-row>
+    <v-row class="reset">
+      <Settings :cash="true"/>
+    </v-row>
   </div>
 </template>
 

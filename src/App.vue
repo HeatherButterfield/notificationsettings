@@ -5,13 +5,6 @@
       <div class="adviser-settings-menu">
         <ul class="adviser-settings-menu-list">
           <li class="adviser-settings-menu-item">
-            <button @click="selected = 1" :class="{active:selected == 1}" class="adviser-settings-menu-item__button" type="button">
-              <router-link to="/email" tag="span">
-                <span class="link">EMAIL FORMAT</span>
-              </router-link>
-            </button>
-          </li>
-          <li class="adviser-settings-menu-item">
           <button @click="selected = 2" :class="{active:selected == 2}" class="adviser-settings-menu-item__button" type="button">
             <router-link to="/retirement" tag="span">
               <span class="link">RETIREMENT</span>

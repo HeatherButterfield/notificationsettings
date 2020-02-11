@@ -67,7 +67,7 @@
 
 export default {
   name: "Criteria",
-  props: ["retirement"],
+  props: ["retirement", "cash"],
   components: {
 
   },

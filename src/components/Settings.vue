@@ -41,6 +41,7 @@
         ></v-select>
       </div>
     </div>
+    
     <div class="line d-flex align-center">
       <h5 class="header margin">Message:</h5>
       <div style="width: 950px" class="margin">
@@ -71,7 +72,7 @@
 
 export default {
   name: "Settings",
-  props: ["retirement"],
+  props: ["retirement", "cash"],
   components: {
 
   },
