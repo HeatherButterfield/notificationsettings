@@ -8,9 +8,9 @@
       outlined
       multiple
       chips
-      style="width: 400px;"
+      style="width: 450px;"
     ></v-select>
-    <div class="text-center"><v-btn @click="$store.state.selectionType = 'choose'" color="rgb(74, 144, 226)" class="white--text" x-large width="400px">Update</v-btn></div>
+    <div class="text-center"><v-btn @click="$store.state.selectionType = 'choose'" color="rgb(74, 144, 226)" class="white--text" x-large width="450px">Update</v-btn></div>
   </div>
 </template>
 

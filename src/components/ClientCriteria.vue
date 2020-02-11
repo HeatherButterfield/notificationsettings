@@ -45,7 +45,7 @@
         ></v-select>
       </div>
     </div>
-    <div class="text-center"><v-btn @click="$store.state.selectionType = 'criteria'" color="rgb(74, 144, 226)" class="white--text" x-large width="400px">Update</v-btn></div>
+    <div class="text-center"><v-btn @click="$store.state.selectionType = 'criteria'" color="rgb(74, 144, 226)" class="white--text" x-large width="450px">Update</v-btn></div>
   </div>
 </template>
 
@@ -59,7 +59,7 @@
     margin-right: 20px;
   }
   .item {
-    width: 400px;
+    width: 450px;
   }
 </style>
 
