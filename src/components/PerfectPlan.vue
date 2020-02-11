@@ -1,6 +1,13 @@
 <template>
   <div>
-    <h1>Perfect Plan</h1>
+    <v-row class="flex">
+      <ChooseClients/>
+      <h1>OR</h1>
+      <ClientCriteria :perfect="true"/>
+    </v-row>
+    <v-row class="reset">
+      <Settings :perfect="true"/>
+    </v-row>
   </div>
 </template>
 
@@ -9,11 +16,16 @@
 </style>
 
 <script>
+import ChooseClients from './ChooseClients';
+import ClientCriteria from './ClientCriteria';
+import Settings from './Settings';
 
 export default {
-  name: "Perfect",
+  name: "Cash",
   components: {
-
+    ChooseClients,
+    ClientCriteria,
+    Settings
   },
   data: () => ({
 

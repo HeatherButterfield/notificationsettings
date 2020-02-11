@@ -16,11 +16,16 @@
 </style>
 
 <script>
+import ChooseClients from './ChooseClients';
+import ClientCriteria from './ClientCriteria';
+import Settings from './Settings';
 
 export default {
   name: "Cash",
   components: {
-
+    ChooseClients,
+    ClientCriteria,
+    Settings
   },
   data: () => ({
 
