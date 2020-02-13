@@ -1,27 +1,34 @@
 <template>
   <v-app style="background-color: #f9f7f7; padding: 5%;">
     <div class="adviser-settings">
-      <h1 class="adviser-settings-title">Notification Settings</h1>
+      <h1 class="adviser-settings-title">Client Notification Settings</h1>
       <div class="adviser-settings-menu">
         <ul class="adviser-settings-menu-list">
           <li class="adviser-settings-menu-item">
-          <button @click="selected = 2" :class="{active:selected == 2}" class="adviser-settings-menu-item__button" type="button">
+          <button @click="selected = 1" :class="{active:selected == 1}" class="adviser-settings-menu-item__button" type="button">
             <router-link to="/retirement" tag="span">
-              <span class="link">RETIREMENT</span>
+              <span class="link">OFF-TRACK RETIREMENT</span>
             </router-link>
           </button>
           </li>
           <li class="adviser-settings-menu-item">
-            <button @click="selected = 3" :class="{active:selected == 3}" class="adviser-settings-menu-item__button" type="button">
+            <button @click="selected = 2" :class="{active:selected == 2}" class="adviser-settings-menu-item__button" type="button">
               <router-link to="/cash" tag="span">
-                <span class="link">CASH</span>
+                <span class="link">EXCESS CASH</span>
+              </router-link>
+            </button>
+          </li>
+          <li class="adviser-settings-menu-item">
+            <button @click="selected = 3" :class="{active:selected == 3}" class="adviser-settings-menu-item__button" type="button">
+              <router-link to="/perfect" tag="span">
+                <span class="link">GOALS ARE PROSPERING</span>
               </router-link>
             </button>
           </li>
           <li class="adviser-settings-menu-item">
             <button @click="selected = 4" :class="{active:selected == 4}" class="adviser-settings-menu-item__button" type="button">
-              <router-link to="/perfect" tag="span">
-                <span class="link">PERFECT PLAN</span>
+              <router-link to="/saved" tag="span">
+                <span class="link">SAVED NOTIFICATIONS</span>
               </router-link>
             </button>
           </li>

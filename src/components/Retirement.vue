@@ -1,13 +1,25 @@
 <template>
   <div>
-    <v-row class="flex">
+    <h2>Which clients would you like to build a notification for?</h2>
+    <div class="flex">
       <ChooseClients/>
-      <h1>OR</h1>
+      <h1 class="text-center" style="margin-top: 40px;">OR</h1>
       <ClientCriteria :retirement="true"/>
-    </v-row>
-    <v-row class="reset">
+    </div>
+    <div class="d-flex align-center" v-if="$store.state.currentSelection" style="margin-top: 20px;">
+      <h5 class="header-section" style="margin-right: 20px;">You have selected the following {{ $store.state.currentSelection.length }} clients:</h5>
+      <div v-for="item in $store.state.currentSelection" v-bind:key="item">
+        <v-chip
+        color="rgb(74, 144, 226)"
+        text-color="white"
+        >
+        {{item}}
+        </v-chip>
+      </div>
+    </div>
+    <div class="reset">
       <Settings :retirement="true"/>
-    </v-row>
+    </div>
   </div>
 </template>
 
@@ -17,8 +29,15 @@
   }
   .flex {
     display: flex;
-    justify-content: space-between;
-    align-items: center
+    flex-direction: column;
+    justify-content: center;
+  }
+  .header-section {
+    font-weight: 600;
+    font-size: 1.2em;
+    color: #444;
+    margin-bottom: 30px;
+    margin-top: 40px;
   }
 </style>
 

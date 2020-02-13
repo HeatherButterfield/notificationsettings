@@ -1,8 +1,8 @@
 <template>
   <div>
-    <h5 class="header">Select Clients Who Have:</h5>
+    <h5 class="header">Option 2: Choose clients based on certain criteria</h5>
     <div v-if="retirement">
-      <div class="d-flex item">
+      <div class="d-flex item" style="margin-bottom: 0px; margin-top: 40px;">
         <span class="margin-r">Age</span>
         <v-slider
           v-model="age.value"
@@ -11,7 +11,8 @@
           thumb-label="always"
         ></v-slider>
       </div>
-      <div class="d-flex item">
+      <small>Note: Advizr does not store date of birth. Instead, age is calculated based on current date minus year of birth on file.</small>
+      <div class="d-flex item" style="margin-top: 20px;">
         <span class="margin-r">Networth</span>
         <v-slider
           v-model="networth.value"
@@ -22,15 +23,17 @@
           ticks="always"
         ></v-slider>
       </div>
-      <div class="d-flex item justify-space-between align-center">
-        <span class="margin-r">Plan</span>
+      <div class="d-flex item align-center">
+        <span>Plan Status</span>
         <v-checkbox
           v-model="planComplete"
           label="Complete"
+          style="margin-left: 40px;"
         ></v-checkbox>
         <v-checkbox
           v-model="planIncomplete"
           label="Incomplete"
+          style="margin-left: 40px;"
         ></v-checkbox>
       </div>
       <div class="d-flex item justify-space-between">
@@ -38,7 +41,7 @@
         <v-select
           v-model="goal.selected"
           :items="goal.items"
-          label="Goals"
+          label="Has the following goal(s)"
           outlined
           multiple
           chips
@@ -68,15 +71,13 @@
       </div>
     </div>
     <div v-if="perfect">
-      <div class="d-flex item justify-space-between">
+      <div class="d-flex item justify-space-between" style="margin-top: 20px;">
         <span class="margin-r">Goal</span>
         <v-select
           v-model="goal.selected"
           :items="goal.items"
-          label="Goals"
+          label="Has the following goal"
           outlined
-          multiple
-          chips
         ></v-select>
       </div>
       <div class="d-flex item" v-if="goal.selected.includes('Education')">
@@ -134,7 +135,7 @@
         ></v-slider>
       </div>
     </div>
-    <div class="text-center"><v-btn @click="$store.state.selectionType = 'criteria'" color="rgb(74, 144, 226)" class="white--text" x-large width="450px">Update</v-btn></div>
+    <div class="text-center"><v-btn @click="$store.state.selectionType = 'criteria'" color="rgb(74, 144, 226)" class="white--text" x-large width="300px">Update</v-btn></div>
   </div>
 </template>
 
@@ -148,7 +149,7 @@
     margin-right: 20px;
   }
   .item {
-    width: 450px;
+    width: 100%;
     margin-top: 10px;
     margin-bottom: 10px;
   }
@@ -161,6 +162,11 @@ export default {
   props: ["retirement", "cash", "perfect"],
   components: {
 
+  },
+  methods: {
+    sendQuery() {
+
+    }
   },
   data: () => ({
     age: {
