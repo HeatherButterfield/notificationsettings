@@ -6,7 +6,7 @@
       <h1 class="text-center" style="margin-top: 40px;">OR</h1>
       <ClientCriteria :perfect="true"/>
     </div>
-    <div class="d-flex align-center" v-if="$store.state.currentSelection" style="margin-top: 20px;">
+    <div class="d-flex align-center" v-if="$store.state.currentSelection.length > 0" style="margin-top: 20px;">
       <h5 class="header-section" style="margin-right: 20px;">You have selected the following {{ $store.state.currentSelection.length }} clients:</h5>
       <div v-for="item in $store.state.currentSelection" v-bind:key="item">
         <v-chip
