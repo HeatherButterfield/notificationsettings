@@ -11,13 +11,13 @@
           <p>For clients: <span v-for="client in item.clients" v-bind:key="client">{{ client }}, </span></p>
           <p>Notification type: {{ item.type }}</p>
           <p>Send to: {{ item.sendTo }}</p>
-          <div v-if="item.category = 'retirement'">
+          <div v-if="item.category === 'retirement'">
             <p>When: Client's Retirement goal is less than {{ item.percent }}% for {{ item.duration }} days in a row</p>
           </div>
-          <div v-if="item.category = 'cash'">
+          <div v-if="item.category === 'cash'">
             <p>When: Client's cash increases by {{ item.percent }}% for {{ item.duration }} number of days in a row</p>
           </div>
-          <div v-if="item.category = 'perfect'">
+          <div v-if="item.category === 'perfect'">
             <p>When: Client's {{ item.goal }} goal is {{ item.percent }}% on track for {{ item.duration }} days</p>
           </div>
           <p>With message: {{ item.message }}</p>

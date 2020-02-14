@@ -56,7 +56,7 @@
           outlined
         ></v-text-field>
       </div>
-      <h5 class="header margin">number of days in a row</h5>
+      <h5 class="header margin">days in a row</h5>
     </div>
     <div class="line d-flex align-center" v-if="perfect">
       <h5 class="header margin">When:</h5>
@@ -210,6 +210,7 @@ export default {
       }
       this.$store.state.currentSelection = [];
       this.$store.state.saved.push(newN);
+      this.name = null;
       console.log(this.$store.state.saved);
     }
   }
