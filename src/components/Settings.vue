@@ -26,14 +26,13 @@
       </div>
       <h5 class="header margin">for</h5>
       <div style="width: 200px;" class="margin">
-        <v-text-field
+        <v-select
           v-model="duration"
-          label="number"
-          :rules="[v => !!v || 'Required', v => v > 0 || 'Must be a valid number']"
+          :items="durations"
+          label="duration"
           outlined
-        ></v-text-field>
+        ></v-select>
       </div>
-      <h5 class="header margin">days in a row</h5>
     </div>
     <div class="line d-flex align-center" v-if="cash">
       <h5 class="header margin">When:</h5>
@@ -49,19 +48,19 @@
       </div>
       <h5 class="header margin">for</h5>
       <div style="width: 200px;" class="margin">
-        <v-text-field
+        <v-select
           v-model="duration"
-          label="number"
-          :rules="[v => !!v || 'Required', v => v > 0 || 'Must be a valid number']"
+          :items="durations"
+          label="duration"
           outlined
-        ></v-text-field>
+        ></v-select>
       </div>
-      <h5 class="header margin">days in a row</h5>
     </div>
     <div class="line d-flex align-center" v-if="perfect">
       <h5 class="header margin">When:</h5>
       <div style="width: 200px;" class="margin">
         <v-select
+          @change="setPerfect"
           v-model="goal.selected"
           :items="goal.items"
           label="goal"
@@ -71,6 +70,7 @@
       <h5 class="header margin">goal is</h5>
       <div style="width: 200px;" class="margin">
         <v-text-field
+          @change="setPerfect"
           v-model="onTrackPercent"
           label="percent"
           :rules="[v => !!v || 'Required', v => v > 0 || 'Must be a valid number']"
@@ -80,14 +80,13 @@
       </div>
       <h5 class="header margin">on track for</h5>
       <div style="width: 200px;" class="margin">
-        <v-text-field
+        <v-select
           v-model="duration"
-          label="number"
-          :rules="[v => !!v || 'Required', v => v > 0 || 'Must be a valid number']"
+          :items="durations"
+          label="duration"
           outlined
-        ></v-text-field>
+        ></v-select>
       </div>
-      <h5 class="header margin">days</h5>
     </div>
     <div class="line d-flex align-center">
       <h5 class="header margin">Message:</h5>
@@ -166,15 +165,16 @@ export default {
   },
   data: () => ({
     cashPercent: null,
+    onTrackPercent: 0,
     duration: null,
-    onTrackPercent: null,
+    durations: ['1 week', '2 weeks', '3 weeks', '1 month', '2 months', '3 months'],
     goal: {
       selected: null,
-      items: ['Education', 'Retirement', 'Home Purchase', 'Debt Management', 'Insurance', 'Healthcare']
+      items: ['Education', 'Retirement', 'Home Purchase', 'Debt Management']
     },
     retMessage: "It looks like your retirement plan has strayed off track a bit more than we are comfortable with. Reach out to your advisor to get it back on track.",
     cashMessage: "You have a significant amount of money sitting in cash. Let's earn some interest! Meet with your advisor to see where to best invest some of that money.",
-    perfectMessage: "We just reviewed your [insert goal here] goal and it looks like you are over [insert % here] % complete. Keep up the great work and let us know if there is anything we can do to help!",
+    perfectMessage: "We just reviewed your goal and it looks like you have completed a large percentage. Keep up the great work and let us know if there is anything we can do to help!",
     type: null,
     sendTo: null,
     dialog: false,
@@ -212,6 +212,9 @@ export default {
       this.$store.state.saved.push(newN);
       this.name = null;
       console.log(this.$store.state.saved);
+    },
+    setPerfect() {
+      this.perfectMessage = "We just reviewed your " + this.goal.selected + " goal and it looks like you are over " + this.onTrackPercent + "% complete. Keep up the great work and let us know if there is anything we can do to help!";
     }
   }
 };

@@ -4,7 +4,7 @@
     <div class="flex">
       <ChooseClients/>
       <h1 class="text-center" style="margin-top: 40px;">OR</h1>
-      <ClientCriteria :retirement="true"/>
+      <ClientCriteria/>
     </div>
     <div class="d-flex align-center" v-if="$store.state.currentSelection.length > 0" style="margin-top: 20px;">
       <h5 class="header-section" style="margin-right: 20px;">You have selected the following {{ $store.state.currentSelection.length }} clients:</h5>
