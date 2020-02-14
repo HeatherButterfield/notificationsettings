@@ -159,7 +159,7 @@
 
 export default {
   name: "Settings",
-  props: ["retirement", "cash", "perfect"],
+  props: ["retirement", "cash", "perfect", "clients"],
   components: {
 
   },

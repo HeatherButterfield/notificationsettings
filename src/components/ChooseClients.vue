@@ -3,7 +3,7 @@
     <h5 class="header-section">Option 1: Choose specific clients</h5>
     <v-select
       v-model="selected"
-      :items="clients"
+      :items="names"
       label="Select Client(s)"
       outlined
       multiple
@@ -25,6 +25,7 @@
 </style>
 
 <script>
+import clients from '../assets/clients.json';
 
 export default {
   name: "Choose",
@@ -32,8 +33,24 @@ export default {
 
   },
   data: () => ({
-    selected: null,
-    clients: ['Jameson', 'Heather', 'Jaxon', 'Dominic'],
+    selected: [],
   }),
+  methods: {
+    getClients() {
+      clients.forEach(function(client) {
+        console.log(client['Full Name']);
+        this.clientNames.push(client['Full Name']);
+      });
+    }
+  },
+  computed: {
+    names() {
+      let clientNames = [];
+      clients.map((client) => {
+        clientNames.push(client['Full Name']);
+      });
+      return clientNames;
+    }
+  }
 };
 </script>

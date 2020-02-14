@@ -13,29 +13,30 @@
     <small>Note: Advizr does not store date of birth. Instead, age is calculated based on current date minus year of birth on file.</small>
     <div class="d-flex item" style="margin-top: 20px;">
       <span class="margin-r">Networth</span>
-      <v-slider
-        v-model="networth.value"
-        :tick-labels="networth.labels"
-        :min="networth.min"
-        :max="networth.max"
-        :step="networth.step"
-        ticks="always"
-      ></v-slider>
+      <v-text-field
+        v-model="networth.min"
+        label="min"
+        :rules="[v => !!v || 'Required']"
+        outlined
+        prefix="$"
+      ></v-text-field>
+      <h5 class="header margin">to</h5>
+      <v-text-field
+        v-model="networth.max"
+        label="max"
+        :rules="[v => !!v || 'Required', v => v > 0 || 'Must be a valid number']"
+        outlined
+        prefix="$"
+      ></v-text-field>
     </div>
     <div class="d-flex item align-center">
       <span>Plan Status</span>
-      <v-checkbox
-        v-model="planComplete"
-        label="Complete"
-        style="margin-left: 40px;"
-      ></v-checkbox>
-      <v-checkbox
-        v-model="planIncomplete"
-        label="Incomplete"
-        style="margin-left: 40px;"
-      ></v-checkbox>
+      <v-radio-group v-model="planStatus" :mandatory="true">
+        <v-radio label="Complete" value="Complete"></v-radio>
+        <v-radio label="Incomplete" value="Incomplete"></v-radio>
+      </v-radio-group>
     </div>
-    <div class="text-center"><v-btn @click="$store.state.selectionType = 'criteria'" color="rgb(74, 144, 226)" class="white--text" x-large width="300px">Update</v-btn></div>
+    <div class="text-center"><v-btn @click="update" color="rgb(74, 144, 226)" class="white--text" x-large width="300px">Update</v-btn></div>
   </div>
 </template>
 
@@ -56,16 +57,13 @@
 </style>
 
 <script>
+import clients from '../assets/clients.json';
 
 export default {
   name: "Criteria",
+  props: ["clients"],
   components: {
 
-  },
-  methods: {
-    sendQuery() {
-
-    }
   },
   data: () => ({
     age: {
@@ -74,51 +72,22 @@ export default {
       max: 65,
     },
     networth: {
-      value: null,
-      min: 100000,
-      max: 300000,
-      step: 50000,
-      labels: ["100K", "150K", "200K", "250K", "300K"]
+      min: null,
+      max: null
     },
-    hasCash: {
-      value: null,
-      min: 100000,
-      max: 300000,
-      step: 50000,
-      labels: ["1K", "1.5K", "2K", "2.5K", "3K"]
-    },
-    edu: {
-      value: null,
-      min: 0,
-      max: 100,
-    },
-    ret: {
-      value: null,
-      min: 0,
-      max: 100,
-    },
-    home: {
-      value: null,
-      min: 0,
-      max: 100,
-    },
-    debt: {
-      value: null,
-      min: 0,
-      max: 100,
-    },
-    ins: {
-      value: null,
-      min: 0,
-      max: 100,
-    },
-    health: {
-      value: null,
-      min: 0,
-      max: 100,
-    },
-    planComplete: false,
-    planIncomplete: false,
+    planStatus: null
   }),
+  methods: {
+    update() {
+      this.$store.state.selectionType = 'criteria';
+      let selected = [];
+      clients.map((client) => {
+        if (client["Age"] <= this.age.value && client["Networth"] <= this.networth.max && client["Networth"] >= this.networth.min && client["Plan Status"] == this.planStatus) {
+          selected.push(client["Full Name"]);
+        }
+      });
+      this.$store.state.currentSelection = selected;
+    }
+  }
 };
 </script>
