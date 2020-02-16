@@ -92,6 +92,7 @@ export default {
       clients.map((client) => {
         if (client["Age"] <= this.age.max && client["Age"] >= this.age.min && client["Networth"] <= this.networth.max && client["Networth"] >= this.networth.min && client["Plan Status"] == this.planStatus) {
           selected.push(client["Full Name"]);
+          this.$store.state.selectedIds.push(client['Household ID']);
         }
       });
       this.$store.state.currentSelection = selected;

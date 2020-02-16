@@ -182,7 +182,7 @@ export default {
     name: null
   }),
   methods: {
-    save() {
+    async save() {
       this.dialog = false;
       let newN = {
         name: this.name,
@@ -211,7 +211,7 @@ export default {
       }
 
       clients.map((selected) => {
-        if (this.$store.state.currentSelection.includes(selected['Full Name'])) {
+        if (this.$store.state.selectedIds.includes(selected['Household ID'])) {
           if (this.retirement && this.duration == "1 week" && selected['One Week Average']*100 < this.cashPercent && !this.$store.state.send.includes(selected['Household ID'])) {
             this.$store.state.send.push(selected['Household ID']);
           }
@@ -249,27 +249,36 @@ export default {
             this.$store.state.send.push(selected['Household ID']);
           }
           if (this.perfect && this.duration == "1 week" && selected['One Week Average']*100 > this.onTrackPercent && !this.$store.state.send.includes(selected['Household ID'])) {
-            this.$store.state.send.push(selected['Household ID'] $$ selected['Goals'] == this.goal.selected);
+            this.$store.state.send.push(selected['Household ID'] && selected['Goals'] == this.goal.selected);
           }
           else if (this.perfect && this.duration == "2 weeks" && selected['Two Week Average']*100 > this.onTrackPercent && !this.$store.state.send.includes(selected['Household ID'])) {
-            this.$store.state.send.push(selected['Household ID'] $$ selected['Goals'] == this.goal.selected);
+            this.$store.state.send.push(selected['Household ID'] && selected['Goals'] == this.goal.selected);
           }
           else if (this.perfect && this.duration == "3 weeks" && selected['Three Week Average']*100 > this.onTrackPercent && !this.$store.state.send.includes(selected['Household ID'])) {
-            this.$store.state.send.push(selected['Household ID'] $$ selected['Goals'] == this.goal.selected);
+            this.$store.state.send.push(selected['Household ID'] && selected['Goals'] == this.goal.selected);
           }
           else if (this.perfect && this.duration == "1 month" && selected['One Mo Average']*100 > this.onTrackPercent && !this.$store.state.send.includes(selected['Household ID'])) {
-            this.$store.state.send.push(selected['Household ID'] $$ selected['Goals'] == this.goal.selected);
+            this.$store.state.send.push(selected['Household ID'] && selected['Goals'] == this.goal.selected);
           }
           else if (this.perfect && this.duration == "2 months" && selected['Two Mo Average']*100 > this.onTrackPercent && !this.$store.state.send.includes(selected['Household ID'])) {
-            this.$store.state.send.push(selected['Household ID'] $$ selected['Goals'] == this.goal.selected);
+            this.$store.state.send.push(selected['Household ID'] && selected['Goals'] == this.goal.selected);
           }
           else if (this.perfect && this.duration == "3 month" && selected['Three Mo Average']*100 > this.onTrackPercent && !this.$store.state.send.includes(selected['Household ID'])) {
-            this.$store.state.send.push(selected['Household ID'] $$ selected['Goals'] == this.goal.selected);
+            this.$store.state.send.push(selected['Household ID'] && selected['Goals'] == this.goal.selected);
           }
         }
       });
 
       console.log(this.$store.state.send);
+
+      const response = await fetch("https://testapi.orionadvisor.com/api/v1/security/token", {
+        method: 'GET',
+        headers: {
+          'Authorization': "Basic VVhGMktXd3pKRWJHQ2R4bw==",
+        }
+      });
+      console.log(response);
+
 
       this.$store.state.currentSelection = [];
       this.$store.state.saved.push(newN);

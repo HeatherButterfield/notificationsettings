@@ -4,13 +4,15 @@
     <v-select
       v-model="selected"
       :items="names"
+      :item-text="text"
+      :item-value="value"
       label="Select Client(s)"
       outlined
       multiple
       chips
       style="width: 100%;"
     ></v-select>
-    <div class="text-center"><v-btn @click="$store.state.currentSelection = selected" color="rgb(74, 144, 226)" class="white--text" x-large style="width: 300px;">Update</v-btn></div>
+    <div class="text-center"><v-btn @click="setSelected" color="rgb(74, 144, 226)" class="white--text" x-large style="width: 300px;">Update</v-btn></div>
   </div>
 </template>
 
@@ -41,16 +43,27 @@ export default {
         console.log(client['Full Name']);
         this.clientNames.push(client['Full Name']);
       });
+    },
+    setSelected() {
+      clients.map((client) => {
+        if (this.selected.includes(client['Household ID'])) {
+          this.$store.state.currentSelection.push(client['Full Name']);
+          this.$store.state.selectedIds.push(client['Household ID']);
+        }
+      });
     }
   },
   computed: {
     names() {
       let clientNames = [];
       clients.map((client) => {
-        clientNames.push(client['Full Name']);
+        clientNames.push({
+          text: client['Full Name'],
+          value: client['Household ID'],
+        });
       });
       return clientNames;
-    }
+    },
   }
 };
 </script>
