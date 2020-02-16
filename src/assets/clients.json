@@ -18,7 +18,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Education"
   },
   {
     "Household ID": 1208,
@@ -39,7 +40,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1007,
@@ -60,7 +62,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1006,
@@ -81,7 +84,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1005,
@@ -102,7 +106,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Education"
   },
   {
     "Household ID": 1004,
@@ -123,7 +128,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1001,
@@ -144,7 +150,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1000,
@@ -165,7 +172,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 998,
@@ -186,7 +194,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Education"
   },
   {
     "Household ID": 996,
@@ -207,7 +216,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 995,
@@ -228,7 +238,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 994,
@@ -249,7 +260,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 993,
@@ -270,7 +282,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Education"
   },
   {
     "Household ID": 992,
@@ -291,7 +304,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 842,
@@ -312,7 +326,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1097,
@@ -333,7 +348,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1096,
@@ -354,7 +370,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Education"
   },
   {
     "Household ID": 1095,
@@ -375,7 +392,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1094,
@@ -396,7 +414,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1049,
@@ -417,7 +436,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1046,
@@ -438,7 +458,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Education"
   },
   {
     "Household ID": 1045,
@@ -459,7 +480,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1039,
@@ -480,7 +502,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1035,
@@ -501,7 +524,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1032,
@@ -522,7 +546,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Education"
   },
   {
     "Household ID": 1029,
@@ -543,7 +568,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1028,
@@ -564,7 +590,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1027,
@@ -585,7 +612,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1026,
@@ -606,7 +634,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Education"
   },
   {
     "Household ID": 1024,
@@ -627,7 +656,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1023,
@@ -648,7 +678,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1021,
@@ -669,7 +700,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1019,
@@ -690,7 +722,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Education"
   },
   {
     "Household ID": 1018,
@@ -711,7 +744,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1017,
@@ -732,7 +766,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1016,
@@ -753,7 +788,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1015,
@@ -774,7 +810,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Education"
   },
   {
     "Household ID": 1014,
@@ -795,7 +832,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1013,
@@ -816,7 +854,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1012,
@@ -837,7 +876,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1011,
@@ -858,7 +898,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Education"
   },
   {
     "Household ID": 1010,
@@ -879,7 +920,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1009,
@@ -900,7 +942,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1008,
@@ -921,7 +964,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1207,
@@ -942,7 +986,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Education"
   },
   {
     "Household ID": 1206,
@@ -963,7 +1008,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1205,
@@ -984,7 +1030,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1204,
@@ -1005,7 +1052,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1203,
@@ -1026,7 +1074,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Education"
   },
   {
     "Household ID": 1200,
@@ -1047,7 +1096,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1199,
@@ -1068,7 +1118,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1196,
@@ -1089,7 +1140,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1194,
@@ -1110,7 +1162,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Education"
   },
   {
     "Household ID": 1193,
@@ -1131,7 +1184,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1191,
@@ -1152,7 +1206,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1190,
@@ -1173,7 +1228,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1187,
@@ -1194,7 +1250,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Education"
   },
   {
     "Household ID": 1169,
@@ -1215,7 +1272,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1168,
@@ -1236,7 +1294,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1167,
@@ -1257,7 +1316,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1165,
@@ -1278,7 +1338,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Education"
   },
   {
     "Household ID": 1164,
@@ -1299,7 +1360,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1162,
@@ -1320,7 +1382,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1161,
@@ -1341,7 +1404,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1160,
@@ -1362,7 +1426,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Education"
   },
   {
     "Household ID": 1159,
@@ -1383,7 +1448,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1157,
@@ -1404,7 +1470,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1156,
@@ -1425,7 +1492,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1153,
@@ -1446,7 +1514,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Education"
   },
   {
     "Household ID": 1149,
@@ -1467,7 +1536,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1147,
@@ -1488,7 +1558,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1146,
@@ -1509,7 +1580,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1145,
@@ -1530,7 +1602,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Education"
   },
   {
     "Household ID": 1143,
@@ -1551,7 +1624,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1142,
@@ -1572,7 +1646,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1141,
@@ -1593,7 +1668,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1139,
@@ -1614,7 +1690,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Education"
   },
   {
     "Household ID": 1138,
@@ -1635,7 +1712,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1137,
@@ -1656,7 +1734,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1136,
@@ -1677,7 +1756,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1135,
@@ -1698,7 +1778,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Education"
   },
   {
     "Household ID": 1134,
@@ -1719,7 +1800,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1133,
@@ -1740,7 +1822,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1132,
@@ -1761,7 +1844,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1131,
@@ -1782,7 +1866,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Education"
   },
   {
     "Household ID": 1129,
@@ -1803,7 +1888,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1127,
@@ -1824,7 +1910,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1125,
@@ -1845,7 +1932,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1123,
@@ -1866,7 +1954,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Education"
   },
   {
     "Household ID": 1122,
@@ -1887,7 +1976,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1120,
@@ -1908,7 +1998,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1119,
@@ -1929,7 +2020,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1118,
@@ -1950,7 +2042,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Education"
   },
   {
     "Household ID": 1117,
@@ -1971,7 +2064,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1114,
@@ -1992,7 +2086,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1113,
@@ -2013,7 +2108,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1112,
@@ -2034,7 +2130,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Education"
   },
   {
     "Household ID": 1111,
@@ -2055,7 +2152,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1110,
@@ -2076,7 +2174,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1109,
@@ -2097,7 +2196,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1108,
@@ -2118,7 +2218,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Education"
   },
   {
     "Household ID": 1107,
@@ -2139,7 +2240,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1106,
@@ -2160,7 +2262,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1104,
@@ -2181,7 +2284,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1101,
@@ -2202,7 +2306,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Education"
   },
   {
     "Household ID": 1099,
@@ -2223,7 +2328,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1098,
@@ -2244,7 +2350,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1044,
@@ -2265,7 +2372,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1435,
@@ -2286,7 +2394,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Education"
   },
   {
     "Household ID": 1383,
@@ -2307,7 +2416,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1381,
@@ -2328,7 +2438,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1347,
@@ -2349,7 +2460,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1345,
@@ -2370,7 +2482,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Education"
   },
   {
     "Household ID": 1339,
@@ -2391,7 +2504,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1337,
@@ -2412,7 +2526,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 866,
@@ -2433,7 +2548,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 863,
@@ -2454,7 +2570,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Education"
   },
   {
     "Household ID": 853,
@@ -2475,7 +2592,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 851,
@@ -2496,7 +2614,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 850,
@@ -2517,7 +2636,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 844,
@@ -2538,7 +2658,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Education"
   },
   {
     "Household ID": 843,
@@ -2559,7 +2680,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 832,
@@ -2580,7 +2702,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 831,
@@ -2601,7 +2724,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 829,
@@ -2622,7 +2746,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Education"
   },
   {
     "Household ID": 828,
@@ -2643,7 +2768,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 808,
@@ -2664,7 +2790,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 807,
@@ -2685,7 +2812,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1307,
@@ -2706,7 +2834,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Education"
   },
   {
     "Household ID": 1304,
@@ -2727,7 +2856,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1303,
@@ -2748,7 +2878,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1302,
@@ -2769,7 +2900,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1301,
@@ -2790,7 +2922,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Education"
   },
   {
     "Household ID": 1300,
@@ -2811,7 +2944,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1299,
@@ -2832,7 +2966,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1298,
@@ -2853,7 +2988,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1297,
@@ -2874,7 +3010,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Education"
   },
   {
     "Household ID": 1295,
@@ -2895,7 +3032,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1287,
@@ -2916,7 +3054,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1285,
@@ -2937,7 +3076,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1284,
@@ -2958,7 +3098,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Education"
   },
   {
     "Household ID": 1283,
@@ -2979,7 +3120,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1282,
@@ -3000,7 +3142,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1280,
@@ -3021,7 +3164,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1279,
@@ -3042,7 +3186,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Education"
   },
   {
     "Household ID": 1278,
@@ -3063,7 +3208,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1275,
@@ -3084,7 +3230,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1274,
@@ -3105,7 +3252,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1273,
@@ -3126,7 +3274,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Education"
   },
   {
     "Household ID": 1271,
@@ -3147,7 +3296,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1270,
@@ -3168,7 +3318,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1269,
@@ -3189,7 +3340,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1268,
@@ -3210,7 +3362,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Education"
   },
   {
     "Household ID": 1267,
@@ -3231,7 +3384,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1265,
@@ -3252,7 +3406,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1262,
@@ -3273,7 +3428,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1245,
@@ -3294,7 +3450,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Education"
   },
   {
     "Household ID": 1244,
@@ -3315,7 +3472,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1240,
@@ -3336,7 +3494,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1239,
@@ -3357,7 +3516,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1237,
@@ -3378,7 +3538,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Education"
   },
   {
     "Household ID": 1235,
@@ -3399,7 +3560,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1234,
@@ -3420,7 +3582,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1232,
@@ -3441,7 +3604,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1231,
@@ -3462,7 +3626,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Education"
   },
   {
     "Household ID": 1228,
@@ -3483,7 +3648,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1227,
@@ -3504,7 +3670,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1226,
@@ -3525,7 +3692,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1225,
@@ -3546,7 +3714,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Education"
   },
   {
     "Household ID": 1224,
@@ -3567,7 +3736,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1223,
@@ -3588,7 +3758,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1221,
@@ -3609,7 +3780,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1220,
@@ -3630,7 +3802,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Education"
   },
   {
     "Household ID": 1219,
@@ -3651,7 +3824,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1218,
@@ -3672,7 +3846,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1217,
@@ -3693,7 +3868,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1215,
@@ -3714,7 +3890,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Education"
   },
   {
     "Household ID": 1214,
@@ -3735,7 +3912,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1213,
@@ -3756,7 +3934,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1212,
@@ -3777,7 +3956,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1211,
@@ -3798,7 +3978,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Education"
   },
   {
     "Household ID": 824,
@@ -3819,7 +4000,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 823,
@@ -3840,7 +4022,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 822,
@@ -3861,7 +4044,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 821,
@@ -3882,7 +4066,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Education"
   },
   {
     "Household ID": 820,
@@ -3903,7 +4088,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 819,
@@ -3924,7 +4110,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 818,
@@ -3945,7 +4132,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 817,
@@ -3966,7 +4154,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Education"
   },
   {
     "Household ID": 816,
@@ -3987,7 +4176,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 815,
@@ -4008,7 +4198,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 814,
@@ -4029,7 +4220,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 813,
@@ -4050,7 +4242,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Education"
   },
   {
     "Household ID": 812,
@@ -4071,7 +4264,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 809,
@@ -4092,7 +4286,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1720,
@@ -4113,7 +4308,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1447,
@@ -4134,7 +4330,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Education"
   },
   {
     "Household ID": 826,
@@ -4155,7 +4352,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1334,
@@ -4176,7 +4374,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1333,
@@ -4197,7 +4396,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1482,
@@ -4218,7 +4418,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Education"
   },
   {
     "Household ID": 1442,
@@ -4239,7 +4440,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1440,
@@ -4260,7 +4462,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1398,
@@ -4281,7 +4484,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 848,
@@ -4302,7 +4506,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Education"
   },
   {
     "Household ID": 847,
@@ -4323,7 +4528,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 810,
@@ -4344,7 +4550,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 834,
@@ -4365,7 +4572,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 833,
@@ -4386,7 +4594,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Education"
   },
   {
     "Household ID": 1336,
@@ -4407,7 +4616,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 840,
@@ -4428,7 +4638,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 839,
@@ -4449,7 +4660,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 838,
@@ -4470,7 +4682,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Education"
   },
   {
     "Household ID": 837,
@@ -4491,7 +4704,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 836,
@@ -4512,7 +4726,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1437,
@@ -4533,7 +4748,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1434,
@@ -4554,7 +4770,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Education"
   },
   {
     "Household ID": 1066,
@@ -4575,7 +4792,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1065,
@@ -4596,7 +4814,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1064,
@@ -4617,7 +4836,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 864,
@@ -4638,7 +4858,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Education"
   },
   {
     "Household ID": 861,
@@ -4659,7 +4880,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 860,
@@ -4680,7 +4902,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 859,
@@ -4701,7 +4924,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 858,
@@ -4722,7 +4946,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Education"
   },
   {
     "Household ID": 857,
@@ -4743,7 +4968,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 852,
@@ -4764,7 +4990,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 841,
@@ -4785,7 +5012,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1423,
@@ -4806,7 +5034,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Education"
   },
   {
     "Household ID": 1717,
@@ -4827,7 +5056,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1424,
@@ -4848,7 +5078,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1421,
@@ -4869,7 +5100,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1420,
@@ -4890,7 +5122,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Education"
   },
   {
     "Household ID": 1418,
@@ -4911,7 +5144,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1397,
@@ -4932,7 +5166,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1396,
@@ -4953,7 +5188,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1395,
@@ -4974,7 +5210,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Education"
   },
   {
     "Household ID": 1394,
@@ -4995,7 +5232,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1392,
@@ -5016,7 +5254,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1391,
@@ -5037,7 +5276,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1341,
@@ -5058,7 +5298,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Education"
   },
   {
     "Household ID": 1331,
@@ -5079,7 +5320,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1330,
@@ -5100,7 +5342,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1329,
@@ -5121,7 +5364,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1328,
@@ -5142,7 +5386,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Education"
   },
   {
     "Household ID": 1327,
@@ -5163,7 +5408,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1326,
@@ -5184,7 +5430,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1325,
@@ -5205,7 +5452,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1324,
@@ -5226,7 +5474,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Education"
   },
   {
     "Household ID": 1292,
@@ -5247,7 +5496,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1291,
@@ -5268,7 +5518,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1077,
@@ -5289,7 +5540,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1076,
@@ -5310,7 +5562,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Education"
   },
   {
     "Household ID": 1075,
@@ -5331,7 +5584,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1074,
@@ -5352,7 +5606,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1073,
@@ -5373,7 +5628,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1071,
@@ -5394,7 +5650,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Education"
   },
   {
     "Household ID": 1069,
@@ -5415,7 +5672,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1068,
@@ -5436,7 +5694,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1072,
@@ -5457,7 +5716,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 862,
@@ -5478,7 +5738,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Education"
   },
   {
     "Household ID": 1609,
@@ -5499,7 +5760,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1594,
@@ -5520,7 +5782,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1560,
@@ -5541,7 +5804,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1526,
@@ -5562,7 +5826,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Education"
   },
   {
     "Household ID": 1475,
@@ -5583,7 +5848,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1474,
@@ -5604,7 +5870,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1473,
@@ -5625,7 +5892,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1472,
@@ -5646,7 +5914,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Education"
   },
   {
     "Household ID": 1452,
@@ -5667,7 +5936,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1451,
@@ -5688,7 +5958,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1450,
@@ -5709,7 +5980,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1449,
@@ -5730,7 +6002,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Education"
   },
   {
     "Household ID": 1445,
@@ -5751,7 +6024,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1444,
@@ -5772,7 +6046,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1443,
@@ -5793,7 +6068,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1439,
@@ -5814,7 +6090,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Education"
   },
   {
     "Household ID": 1455,
@@ -5835,7 +6112,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1454,
@@ -5856,7 +6134,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1453,
@@ -5877,7 +6156,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1448,
@@ -5898,7 +6178,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Education"
   },
   {
     "Household ID": 1446,
@@ -5919,7 +6200,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1389,
@@ -5940,7 +6222,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1388,
@@ -5961,7 +6244,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1387,
@@ -5982,7 +6266,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Education"
   },
   {
     "Household ID": 1386,
@@ -6003,7 +6288,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1385,
@@ -6024,7 +6310,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1382,
@@ -6045,7 +6332,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1070,
@@ -6066,7 +6354,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Education"
   },
   {
     "Household ID": 1067,
@@ -6087,7 +6376,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 905,
@@ -6108,7 +6398,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 867,
@@ -6129,7 +6420,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1471,
@@ -6150,7 +6442,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Education"
   },
   {
     "Household ID": 1470,
@@ -6171,7 +6464,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1469,
@@ -6192,7 +6486,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1468,
@@ -6213,7 +6508,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1467,
@@ -6234,7 +6530,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Education"
   },
   {
     "Household ID": 1466,
@@ -6255,7 +6552,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1465,
@@ -6276,7 +6574,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1464,
@@ -6297,7 +6596,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1463,
@@ -6318,7 +6618,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Education"
   },
   {
     "Household ID": 1462,
@@ -6339,7 +6640,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1461,
@@ -6360,7 +6662,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1460,
@@ -6381,7 +6684,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1459,
@@ -6402,7 +6706,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Education"
   },
   {
     "Household ID": 1458,
@@ -6423,7 +6728,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1457,
@@ -6444,7 +6750,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1674,
@@ -6465,7 +6772,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1652,
@@ -6486,7 +6794,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Education"
   },
   {
     "Household ID": 1441,
@@ -6507,7 +6816,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1390,
@@ -6528,7 +6838,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1380,
@@ -6549,7 +6860,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1344,
@@ -6570,7 +6882,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Education"
   },
   {
     "Household ID": 1342,
@@ -6591,7 +6904,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1433,
@@ -6612,7 +6926,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1210,
@@ -6633,7 +6948,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 825,
@@ -6654,7 +6970,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Education"
   },
   {
     "Household ID": 830,
@@ -6675,7 +6992,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1332,
@@ -6696,7 +7014,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1335,
@@ -6717,7 +7036,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1338,
@@ -6738,7 +7058,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Education"
   },
   {
     "Household ID": 849,
@@ -6759,7 +7080,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 846,
@@ -6780,7 +7102,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 811,
@@ -6801,7 +7124,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 835,
@@ -6822,7 +7146,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Education"
   },
   {
     "Household ID": 1438,
@@ -6843,7 +7168,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 827,
@@ -6864,7 +7190,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1456,
@@ -6885,7 +7212,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1343,
@@ -6906,7 +7234,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Education"
   },
   {
     "Household ID": 1340,
@@ -6927,7 +7256,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1540,
@@ -6948,7 +7278,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1779,
@@ -6969,7 +7300,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 50,
@@ -6990,7 +7322,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Education"
   },
   {
     "Household ID": 49,
@@ -7011,7 +7344,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 103,
@@ -7032,7 +7366,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 855,
@@ -7053,7 +7388,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 854,
@@ -7074,7 +7410,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Education"
   },
   {
     "Household ID": 1377,
@@ -7095,7 +7432,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1376,
@@ -7116,7 +7454,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1375,
@@ -7137,7 +7476,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1374,
@@ -7158,7 +7498,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Education"
   },
   {
     "Household ID": 1373,
@@ -7179,7 +7520,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1372,
@@ -7200,7 +7542,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1371,
@@ -7221,7 +7564,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1370,
@@ -7242,7 +7586,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Education"
   },
   {
     "Household ID": 1368,
@@ -7263,7 +7608,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1367,
@@ -7284,7 +7630,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1366,
@@ -7305,7 +7652,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1364,
@@ -7326,7 +7674,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Education"
   },
   {
     "Household ID": 1363,
@@ -7347,7 +7696,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1430,
@@ -7368,7 +7718,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1429,
@@ -7389,7 +7740,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1428,
@@ -7410,7 +7762,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Education"
   },
   {
     "Household ID": 1427,
@@ -7431,7 +7784,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1426,
@@ -7452,7 +7806,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1425,
@@ -7473,7 +7828,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1393,
@@ -7494,7 +7850,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Education"
   },
   {
     "Household ID": 1384,
@@ -7515,7 +7872,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1379,
@@ -7536,7 +7894,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1378,
@@ -7557,7 +7916,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1346,
@@ -7578,7 +7938,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Education"
   },
   {
     "Household ID": 1293,
@@ -7599,7 +7960,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1185,
@@ -7620,7 +7982,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1078,
@@ -7641,7 +8004,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1063,
@@ -7662,7 +8026,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Education"
   },
   {
     "Household ID": 1062,
@@ -7683,7 +8048,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1061,
@@ -7704,7 +8070,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1060,
@@ -7725,7 +8092,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1059,
@@ -7746,7 +8114,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Education"
   },
   {
     "Household ID": 1058,
@@ -7767,7 +8136,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1057,
@@ -7788,7 +8158,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1056,
@@ -7809,7 +8180,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1055,
@@ -7830,7 +8202,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Education"
   },
   {
     "Household ID": 865,
@@ -7851,7 +8224,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 856,
@@ -7872,7 +8246,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 988,
@@ -7893,7 +8268,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1646,
@@ -7914,7 +8290,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Education"
   },
   {
     "Household ID": 1399,
@@ -7935,7 +8312,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1432,
@@ -7956,7 +8334,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1400,
@@ -7977,7 +8356,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 724,
@@ -7998,7 +8378,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Education"
   },
   {
     "Household ID": 1401,
@@ -8019,7 +8400,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1040,
@@ -8040,7 +8422,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 620,
@@ -8061,7 +8444,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 699,
@@ -8082,7 +8466,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Education"
   },
   {
     "Household ID": 625,
@@ -8103,7 +8488,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 623,
@@ -8124,7 +8510,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 622,
@@ -8145,7 +8532,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 621,
@@ -8166,7 +8554,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Education"
   },
   {
     "Household ID": 619,
@@ -8187,7 +8576,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 617,
@@ -8208,7 +8598,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 615,
@@ -8229,7 +8620,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 624,
@@ -8250,7 +8642,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Education"
   },
   {
     "Household ID": 616,
@@ -8271,7 +8664,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1658,
@@ -8292,7 +8686,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1586,
@@ -8313,7 +8708,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1672,
@@ -8334,7 +8730,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Education"
   },
   {
     "Household ID": 1735,
@@ -8355,7 +8752,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1486,
@@ -8376,7 +8774,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1485,
@@ -8397,7 +8796,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1484,
@@ -8418,7 +8818,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Education"
   },
   {
     "Household ID": 1481,
@@ -8439,7 +8840,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1480,
@@ -8460,7 +8862,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1479,
@@ -8481,7 +8884,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1478,
@@ -8502,7 +8906,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Education"
   },
   {
     "Household ID": 1477,
@@ -8523,7 +8928,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1476,
@@ -8544,7 +8950,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1436,
@@ -8565,7 +8972,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1431,
@@ -8586,7 +8994,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Education"
   },
   {
     "Household ID": 1419,
@@ -8607,7 +9016,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1417,
@@ -8628,7 +9038,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1416,
@@ -8649,7 +9060,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1411,
@@ -8670,7 +9082,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Education"
   },
   {
     "Household ID": 1603,
@@ -8691,7 +9104,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1602,
@@ -8712,7 +9126,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1601,
@@ -8733,7 +9148,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1600,
@@ -8754,7 +9170,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Education"
   },
   {
     "Household ID": 1599,
@@ -8775,7 +9192,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1598,
@@ -8796,7 +9214,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1597,
@@ -8817,7 +9236,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1596,
@@ -8838,7 +9258,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Education"
   },
   {
     "Household ID": 1593,
@@ -8859,7 +9280,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1592,
@@ -8880,7 +9302,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1591,
@@ -8901,7 +9324,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1590,
@@ -8922,7 +9346,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Education"
   },
   {
     "Household ID": 1589,
@@ -8943,7 +9368,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1588,
@@ -8964,7 +9390,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1587,
@@ -8985,7 +9412,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1585,
@@ -9006,7 +9434,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Education"
   },
   {
     "Household ID": 1584,
@@ -9027,7 +9456,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1583,
@@ -9048,7 +9478,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1582,
@@ -9069,7 +9500,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1581,
@@ -9090,7 +9522,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Education"
   },
   {
     "Household ID": 1580,
@@ -9111,7 +9544,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1579,
@@ -9132,7 +9566,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1577,
@@ -9153,7 +9588,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1576,
@@ -9174,7 +9610,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Education"
   },
   {
     "Household ID": 1573,
@@ -9195,7 +9632,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1572,
@@ -9216,7 +9654,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1571,
@@ -9237,7 +9676,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1565,
@@ -9258,7 +9698,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Education"
   },
   {
     "Household ID": 1562,
@@ -9279,7 +9720,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1561,
@@ -9300,7 +9742,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1548,
@@ -9321,7 +9764,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1539,
@@ -9342,7 +9786,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Education"
   },
   {
     "Household ID": 1516,
@@ -9363,7 +9808,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1515,
@@ -9384,7 +9830,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1487,
@@ -9405,7 +9852,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1496,
@@ -9426,7 +9874,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Education"
   },
   {
     "Household ID": 1495,
@@ -9447,7 +9896,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1494,
@@ -9468,7 +9918,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1493,
@@ -9489,7 +9940,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1492,
@@ -9510,7 +9962,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Education"
   },
   {
     "Household ID": 1491,
@@ -9531,7 +9984,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1490,
@@ -9552,7 +10006,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1489,
@@ -9573,7 +10028,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1488,
@@ -9594,7 +10050,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Education"
   },
   {
     "Household ID": 1578,
@@ -9615,7 +10072,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1570,
@@ -9636,7 +10094,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1569,
@@ -9657,7 +10116,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1547,
@@ -9678,7 +10138,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Education"
   },
   {
     "Household ID": 1736,
@@ -9699,7 +10160,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1744,
@@ -9720,7 +10182,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1743,
@@ -9741,7 +10204,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1746,
@@ -9762,7 +10226,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Education"
   },
   {
     "Household ID": 1683,
@@ -9783,7 +10248,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1556,
@@ -9804,7 +10270,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1524,
@@ -9825,7 +10292,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1253,
@@ -9846,7 +10314,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Education"
   },
   {
     "Household ID": 1653,
@@ -9867,7 +10336,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1687,
@@ -9888,7 +10358,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1689,
@@ -9909,7 +10380,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1688,
@@ -9930,7 +10402,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Education"
   },
   {
     "Household ID": 1595,
@@ -9951,7 +10424,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1686,
@@ -9972,7 +10446,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1684,
@@ -9993,7 +10468,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1695,
@@ -10014,7 +10490,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Education"
   },
   {
     "Household ID": 1742,
@@ -10035,7 +10512,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1738,
@@ -10056,7 +10534,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1737,
@@ -10077,7 +10556,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1726,
@@ -10098,7 +10578,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Education"
   },
   {
     "Household ID": 1725,
@@ -10119,7 +10600,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1724,
@@ -10140,7 +10622,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1723,
@@ -10161,7 +10644,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1722,
@@ -10182,7 +10666,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Education"
   },
   {
     "Household ID": 1718,
@@ -10203,7 +10688,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1715,
@@ -10224,7 +10710,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1714,
@@ -10245,7 +10732,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1713,
@@ -10266,7 +10754,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Education"
   },
   {
     "Household ID": 1712,
@@ -10287,7 +10776,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1710,
@@ -10308,7 +10798,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1708,
@@ -10329,7 +10820,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1706,
@@ -10350,7 +10842,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Education"
   },
   {
     "Household ID": 1692,
@@ -10371,7 +10864,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1685,
@@ -10392,7 +10886,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1659,
@@ -10413,7 +10908,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1655,
@@ -10434,7 +10930,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Education"
   },
   {
     "Household ID": 1651,
@@ -10455,7 +10952,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1650,
@@ -10476,7 +10974,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1647,
@@ -10497,7 +10996,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1638,
@@ -10518,7 +11018,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Education"
   },
   {
     "Household ID": 1630,
@@ -10539,7 +11040,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1629,
@@ -10560,7 +11062,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1628,
@@ -10581,7 +11084,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1625,
@@ -10602,7 +11106,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Education"
   },
   {
     "Household ID": 1622,
@@ -10623,7 +11128,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1621,
@@ -10644,7 +11150,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1620,
@@ -10665,7 +11172,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1615,
@@ -10686,7 +11194,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Education"
   },
   {
     "Household ID": 1614,
@@ -10707,7 +11216,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1613,
@@ -10728,7 +11238,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1611,
@@ -10749,7 +11260,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1610,
@@ -10770,7 +11282,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Education"
   },
   {
     "Household ID": 1607,
@@ -10791,7 +11304,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1605,
@@ -10812,7 +11326,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1604,
@@ -10833,7 +11348,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1415,
@@ -10854,7 +11370,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Education"
   },
   {
     "Household ID": 1414,
@@ -10875,7 +11392,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1413,
@@ -10896,7 +11414,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1412,
@@ -10917,7 +11436,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1410,
@@ -10938,7 +11458,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Education"
   },
   {
     "Household ID": 1409,
@@ -10959,7 +11480,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1408,
@@ -10980,7 +11502,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1407,
@@ -11001,7 +11524,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1406,
@@ -11022,7 +11546,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Education"
   },
   {
     "Household ID": 1405,
@@ -11043,7 +11568,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1404,
@@ -11064,7 +11590,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1403,
@@ -11085,7 +11612,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1402,
@@ -11106,7 +11634,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Education"
   },
   {
     "Household ID": 796,
@@ -11127,7 +11656,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 770,
@@ -11148,7 +11678,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 769,
@@ -11169,7 +11700,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 755,
@@ -11190,7 +11722,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Education"
   },
   {
     "Household ID": 744,
@@ -11211,7 +11744,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 731,
@@ -11232,7 +11766,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 727,
@@ -11253,7 +11788,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 723,
@@ -11274,7 +11810,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Education"
   },
   {
     "Household ID": 714,
@@ -11295,7 +11832,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 710,
@@ -11316,7 +11854,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 709,
@@ -11337,7 +11876,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1362,
@@ -11358,7 +11898,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Education"
   },
   {
     "Household ID": 1361,
@@ -11379,7 +11920,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1360,
@@ -11400,7 +11942,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1359,
@@ -11421,7 +11964,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1358,
@@ -11442,7 +11986,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Education"
   },
   {
     "Household ID": 1357,
@@ -11463,7 +12008,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1355,
@@ -11484,7 +12030,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1351,
@@ -11505,7 +12052,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1350,
@@ -11526,7 +12074,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Education"
   },
   {
     "Household ID": 1349,
@@ -11547,7 +12096,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1323,
@@ -11568,7 +12118,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1322,
@@ -11589,7 +12140,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1320,
@@ -11610,7 +12162,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Education"
   },
   {
     "Household ID": 1318,
@@ -11631,7 +12184,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1317,
@@ -11652,7 +12206,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1315,
@@ -11673,7 +12228,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1314,
@@ -11694,7 +12250,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Education"
   },
   {
     "Household ID": 1313,
@@ -11715,7 +12272,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1311,
@@ -11736,7 +12294,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1309,
@@ -11757,7 +12316,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1260,
@@ -11778,7 +12338,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Education"
   },
   {
     "Household ID": 1259,
@@ -11799,7 +12360,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1258,
@@ -11820,7 +12382,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1257,
@@ -11841,7 +12404,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1256,
@@ -11862,7 +12426,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Education"
   },
   {
     "Household ID": 1255,
@@ -11883,7 +12448,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1254,
@@ -11904,7 +12470,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1252,
@@ -11925,7 +12492,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1249,
@@ -11946,7 +12514,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Education"
   },
   {
     "Household ID": 1248,
@@ -11967,7 +12536,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1246,
@@ -11988,7 +12558,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1184,
@@ -12009,7 +12580,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1183,
@@ -12030,7 +12602,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Education"
   },
   {
     "Household ID": 1182,
@@ -12051,7 +12624,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1181,
@@ -12072,7 +12646,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1179,
@@ -12093,7 +12668,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1178,
@@ -12114,7 +12690,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Education"
   },
   {
     "Household ID": 1177,
@@ -12135,7 +12712,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1172,
@@ -12156,7 +12734,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1170,
@@ -12177,7 +12756,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1093,
@@ -12198,7 +12778,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Education"
   },
   {
     "Household ID": 1091,
@@ -12219,7 +12800,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1090,
@@ -12240,7 +12822,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1089,
@@ -12261,7 +12844,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1088,
@@ -12282,7 +12866,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Education"
   },
   {
     "Household ID": 1087,
@@ -12303,7 +12888,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1086,
@@ -12324,7 +12910,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1084,
@@ -12345,7 +12932,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1081,
@@ -12366,7 +12954,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Education"
   },
   {
     "Household ID": 1079,
@@ -12387,7 +12976,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1727,
@@ -12408,7 +12998,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1673,
@@ -12429,7 +13020,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1656,
@@ -12450,7 +13042,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Education"
   },
   {
     "Household ID": 1654,
@@ -12471,7 +13064,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1649,
@@ -12492,7 +13086,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1648,
@@ -12513,7 +13108,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1643,
@@ -12534,7 +13130,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Education"
   },
   {
     "Household ID": 1642,
@@ -12555,7 +13152,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1641,
@@ -12576,7 +13174,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1639,
@@ -12597,7 +13196,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1636,
@@ -12618,7 +13218,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Education"
   },
   {
     "Household ID": 1635,
@@ -12639,7 +13240,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1631,
@@ -12660,7 +13262,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1627,
@@ -12681,7 +13284,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1626,
@@ -12702,7 +13306,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Education"
   },
   {
     "Household ID": 1624,
@@ -12723,7 +13328,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1623,
@@ -12744,7 +13350,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1619,
@@ -12765,7 +13372,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1618,
@@ -12786,7 +13394,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Education"
   },
   {
     "Household ID": 1617,
@@ -12807,7 +13416,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1608,
@@ -12828,7 +13438,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1606,
@@ -12849,7 +13460,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1575,
@@ -12870,7 +13482,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Education"
   },
   {
     "Household ID": 1567,
@@ -12891,7 +13504,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1566,
@@ -12912,7 +13526,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1564,
@@ -12933,7 +13548,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1558,
@@ -12954,7 +13570,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Education"
   },
   {
     "Household ID": 1557,
@@ -12975,7 +13592,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1553,
@@ -12996,7 +13614,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1552,
@@ -13017,7 +13636,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1550,
@@ -13038,7 +13658,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Education"
   },
   {
     "Household ID": 1549,
@@ -13059,7 +13680,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1533,
@@ -13080,7 +13702,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1523,
@@ -13101,7 +13724,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1522,
@@ -13122,7 +13746,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Education"
   },
   {
     "Household ID": 1518,
@@ -13143,7 +13768,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1517,
@@ -13164,7 +13790,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1514,
@@ -13185,7 +13812,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1513,
@@ -13206,7 +13834,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Education"
   },
   {
     "Household ID": 1512,
@@ -13227,7 +13856,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1511,
@@ -13248,7 +13878,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1510,
@@ -13269,7 +13900,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1509,
@@ -13290,7 +13922,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Education"
   },
   {
     "Household ID": 1508,
@@ -13311,7 +13944,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1507,
@@ -13332,7 +13966,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1506,
@@ -13353,7 +13988,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1505,
@@ -13374,7 +14010,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Education"
   },
   {
     "Household ID": 1504,
@@ -13395,7 +14032,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1503,
@@ -13416,7 +14054,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1502,
@@ -13437,7 +14076,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1501,
@@ -13458,7 +14098,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Education"
   },
   {
     "Household ID": 1500,
@@ -13479,7 +14120,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1499,
@@ -13500,7 +14142,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1498,
@@ -13521,7 +14164,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1497,
@@ -13542,7 +14186,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Education"
   },
   {
     "Household ID": 1783,
@@ -13563,7 +14208,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1781,
@@ -13584,7 +14230,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1777,
@@ -13605,7 +14252,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1775,
@@ -13626,7 +14274,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Education"
   },
   {
     "Household ID": 1774,
@@ -13647,7 +14296,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1773,
@@ -13668,7 +14318,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1771,
@@ -13689,7 +14340,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1770,
@@ -13710,7 +14362,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Education"
   },
   {
     "Household ID": 1769,
@@ -13731,7 +14384,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1768,
@@ -13752,7 +14406,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1766,
@@ -13773,7 +14428,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1765,
@@ -13794,7 +14450,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Education"
   },
   {
     "Household ID": 1764,
@@ -13815,7 +14472,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1763,
@@ -13836,7 +14494,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1762,
@@ -13857,7 +14516,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1759,
@@ -13878,7 +14538,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Education"
   },
   {
     "Household ID": 1758,
@@ -13899,7 +14560,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1757,
@@ -13920,7 +14582,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1756,
@@ -13941,7 +14604,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1755,
@@ -13962,7 +14626,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Education"
   },
   {
     "Household ID": 1754,
@@ -13983,7 +14648,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1753,
@@ -14004,7 +14670,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1752,
@@ -14025,7 +14692,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1751,
@@ -14046,7 +14714,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Education"
   },
   {
     "Household ID": 1750,
@@ -14067,7 +14736,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1671,
@@ -14088,7 +14758,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1483,
@@ -14109,7 +14780,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 752,
@@ -14130,7 +14802,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Education"
   },
   {
     "Household ID": 119,
@@ -14151,7 +14824,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 46,
@@ -14172,7 +14846,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1696,
@@ -14193,7 +14868,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 804,
@@ -14214,7 +14890,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Education"
   },
   {
     "Household ID": 794,
@@ -14235,7 +14912,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 793,
@@ -14256,7 +14934,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 792,
@@ -14277,7 +14956,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 791,
@@ -14298,7 +14978,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Education"
   },
   {
     "Household ID": 789,
@@ -14319,7 +15000,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 780,
@@ -14340,7 +15022,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 774,
@@ -14361,7 +15044,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 773,
@@ -14382,7 +15066,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Education"
   },
   {
     "Household ID": 765,
@@ -14403,7 +15088,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 764,
@@ -14424,7 +15110,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 762,
@@ -14445,7 +15132,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 753,
@@ -14466,7 +15154,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Education"
   },
   {
     "Household ID": 742,
@@ -14487,7 +15176,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 733,
@@ -14508,7 +15198,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 707,
@@ -14529,7 +15220,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 697,
@@ -14550,7 +15242,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Education"
   },
   {
     "Household ID": 743,
@@ -14571,7 +15264,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 806,
@@ -14592,7 +15286,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 805,
@@ -14613,7 +15308,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 803,
@@ -14634,7 +15330,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Education"
   },
   {
     "Household ID": 802,
@@ -14655,7 +15352,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 801,
@@ -14676,7 +15374,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 800,
@@ -14697,7 +15396,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 799,
@@ -14718,7 +15418,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Education"
   },
   {
     "Household ID": 798,
@@ -14739,7 +15440,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 797,
@@ -14760,7 +15462,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 795,
@@ -14781,7 +15484,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 790,
@@ -14802,7 +15506,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Education"
   },
   {
     "Household ID": 788,
@@ -14823,7 +15528,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 787,
@@ -14844,7 +15550,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 786,
@@ -14865,7 +15572,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 785,
@@ -14886,7 +15594,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Education"
   },
   {
     "Household ID": 784,
@@ -14907,7 +15616,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 783,
@@ -14928,7 +15638,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 782,
@@ -14949,7 +15660,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 781,
@@ -14970,7 +15682,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Education"
   },
   {
     "Household ID": 779,
@@ -14991,7 +15704,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 778,
@@ -15012,7 +15726,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 777,
@@ -15033,7 +15748,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 776,
@@ -15054,7 +15770,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Education"
   },
   {
     "Household ID": 775,
@@ -15075,7 +15792,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 772,
@@ -15096,7 +15814,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 771,
@@ -15117,7 +15836,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 768,
@@ -15138,7 +15858,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Education"
   },
   {
     "Household ID": 767,
@@ -15159,7 +15880,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 766,
@@ -15180,7 +15902,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 763,
@@ -15201,7 +15924,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 761,
@@ -15222,7 +15946,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Education"
   },
   {
     "Household ID": 760,
@@ -15243,7 +15968,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 759,
@@ -15264,7 +15990,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 758,
@@ -15285,7 +16012,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 757,
@@ -15306,7 +16034,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Education"
   },
   {
     "Household ID": 756,
@@ -15327,7 +16056,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 754,
@@ -15348,7 +16078,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 751,
@@ -15369,7 +16100,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 750,
@@ -15390,7 +16122,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Education"
   },
   {
     "Household ID": 749,
@@ -15411,7 +16144,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 748,
@@ -15432,7 +16166,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 746,
@@ -15453,7 +16188,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 745,
@@ -15474,7 +16210,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Education"
   },
   {
     "Household ID": 741,
@@ -15495,7 +16232,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 740,
@@ -15516,7 +16254,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 738,
@@ -15537,7 +16276,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 737,
@@ -15558,7 +16298,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Education"
   },
   {
     "Household ID": 736,
@@ -15579,7 +16320,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 735,
@@ -15600,7 +16342,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 734,
@@ -15621,7 +16364,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 732,
@@ -15642,7 +16386,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Education"
   },
   {
     "Household ID": 729,
@@ -15663,7 +16408,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 728,
@@ -15684,7 +16430,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 722,
@@ -15705,7 +16452,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 721,
@@ -15726,7 +16474,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Education"
   },
   {
     "Household ID": 713,
@@ -15747,7 +16496,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 712,
@@ -15768,7 +16518,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 711,
@@ -15789,7 +16540,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 708,
@@ -15810,7 +16562,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Education"
   },
   {
     "Household ID": 706,
@@ -15831,7 +16584,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 702,
@@ -15852,7 +16606,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 701,
@@ -15873,7 +16628,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 700,
@@ -15894,7 +16650,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Education"
   },
   {
     "Household ID": 698,
@@ -15915,7 +16672,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 696,
@@ -15936,7 +16694,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 695,
@@ -15957,7 +16716,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 96,
@@ -15978,7 +16738,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Education"
   },
   {
     "Household ID": 91,
@@ -15999,7 +16760,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 51,
@@ -16020,7 +16782,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 739,
@@ -16041,7 +16804,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 716,
@@ -16062,7 +16826,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Education"
   },
   {
     "Household ID": 720,
@@ -16083,7 +16848,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 703,
@@ -16104,7 +16870,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 193,
@@ -16125,7 +16892,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 53,
@@ -16146,7 +16914,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Education"
   },
   {
     "Household ID": 48,
@@ -16167,7 +16936,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1747,
@@ -16188,7 +16958,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1745,
@@ -16209,7 +16980,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1734,
@@ -16230,7 +17002,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Education"
   },
   {
     "Household ID": 1732,
@@ -16251,7 +17024,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1731,
@@ -16272,7 +17046,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1730,
@@ -16293,7 +17068,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 83,
@@ -16314,7 +17090,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Education"
   },
   {
     "Household ID": 1616,
@@ -16335,7 +17112,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 99,
@@ -16356,7 +17134,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 704,
@@ -16377,7 +17156,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 129,
@@ -16398,7 +17178,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Education"
   },
   {
     "Household ID": 120,
@@ -16419,7 +17200,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 117,
@@ -16440,7 +17222,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 114,
@@ -16461,7 +17244,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 111,
@@ -16482,7 +17266,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Education"
   },
   {
     "Household ID": 102,
@@ -16503,7 +17288,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 100,
@@ -16524,7 +17310,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 93,
@@ -16545,7 +17332,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 126,
@@ -16566,7 +17354,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Education"
   },
   {
     "Household ID": 108,
@@ -16587,7 +17376,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 726,
@@ -16608,7 +17398,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 725,
@@ -16629,7 +17420,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 604,
@@ -16650,7 +17442,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Education"
   },
   {
     "Household ID": 121,
@@ -16671,7 +17464,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 118,
@@ -16692,7 +17486,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 115,
@@ -16713,7 +17508,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 112,
@@ -16734,7 +17530,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Education"
   },
   {
     "Household ID": 106,
@@ -16755,7 +17552,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 97,
@@ -16776,7 +17574,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 94,
@@ -16797,7 +17596,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 110,
@@ -16818,7 +17618,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Education"
   },
   {
     "Household ID": 107,
@@ -16839,7 +17640,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 104,
@@ -16860,7 +17662,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 101,
@@ -16881,7 +17684,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 98,
@@ -16902,7 +17706,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Education"
   },
   {
     "Household ID": 1707,
@@ -16923,7 +17728,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1637,
@@ -16944,7 +17750,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1709,
@@ -16965,7 +17772,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1719,
@@ -16986,7 +17794,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Education"
   },
   {
     "Household ID": 1748,
@@ -17007,7 +17816,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 719,
@@ -17028,7 +17838,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1721,
@@ -17049,7 +17860,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1657,
@@ -17070,7 +17882,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Education"
   },
   {
     "Household ID": 1640,
@@ -17091,7 +17904,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1551,
@@ -17112,7 +17926,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 1761,
@@ -17133,7 +17948,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1749,
@@ -17154,7 +17970,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Education"
   },
   {
     "Household ID": 95,
@@ -17175,7 +17992,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 705,
@@ -17196,7 +18014,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 122,
@@ -17217,7 +18036,8 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 116,
@@ -17238,7 +18058,8 @@
     "Three Week Average": 0.08,
     "One Mo Average": 0.3,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.08
+    "Three Mo Average": 0.08,
+    "Goals": "Education"
   },
   {
     "Household ID": 747,
@@ -17259,7 +18080,8 @@
     "Three Week Average": 0.1,
     "One Mo Average": 0.4,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.1
+    "Three Mo Average": 0.1,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 1780,
@@ -17280,7 +18102,8 @@
     "Three Week Average": 0.44,
     "One Mo Average": 0.5,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.44
+    "Three Mo Average": 0.44,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 618,
@@ -17301,7 +18124,8 @@
     "Three Week Average": 0.33,
     "One Mo Average": 0.66,
     "Two Mo Average": 0.08,
-    "Three Mo Average": 0.33
+    "Three Mo Average": 0.33,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 1767,
@@ -17322,7 +18146,8 @@
     "Three Week Average": 0.3,
     "One Mo Average": 0.07,
     "Two Mo Average": 0.1,
-    "Three Mo Average": 0.3
+    "Three Mo Average": 0.3,
+    "Goals": "Education"
   },
   {
     "Household ID": 54,
@@ -17343,7 +18168,8 @@
     "Three Week Average": 0.4,
     "One Mo Average": 0.08,
     "Two Mo Average": 0.4,
-    "Three Mo Average": 0.4
+    "Three Mo Average": 0.4,
+    "Goals": "Retirement"
   },
   {
     "Household ID": 105,
@@ -17364,7 +18190,8 @@
     "Three Week Average": 0.5,
     "One Mo Average": 0.1,
     "Two Mo Average": 0.5,
-    "Three Mo Average": 0.5
+    "Three Mo Average": 0.5,
+    "Goals": "Home Purchase"
   },
   {
     "Household ID": 109,
@@ -17385,7 +18212,8 @@
     "Three Week Average": 0.66,
     "One Mo Average": 0.44,
     "Two Mo Average": 0.66,
-    "Three Mo Average": 0.66
+    "Three Mo Average": 0.66,
+    "Goals": "Debt Management"
   },
   {
     "Household ID": 113,
@@ -17406,6 +18234,7 @@
     "Three Week Average": 0.07,
     "One Mo Average": 0.12,
     "Two Mo Average": 0.07,
-    "Three Mo Average": 0.07
+    "Three Mo Average": 0.07,
+    "Goals": "Education"
   }
 ]

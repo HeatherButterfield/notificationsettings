@@ -249,22 +249,22 @@ export default {
             this.$store.state.send.push(selected['Household ID']);
           }
           if (this.perfect && this.duration == "1 week" && selected['One Week Average']*100 > this.onTrackPercent && !this.$store.state.send.includes(selected['Household ID'])) {
-            this.$store.state.send.push(selected['Household ID']);
+            this.$store.state.send.push(selected['Household ID'] $$ selected['Goals'] == this.goal.selected);
           }
           else if (this.perfect && this.duration == "2 weeks" && selected['Two Week Average']*100 > this.onTrackPercent && !this.$store.state.send.includes(selected['Household ID'])) {
-            this.$store.state.send.push(selected['Household ID']);
+            this.$store.state.send.push(selected['Household ID'] $$ selected['Goals'] == this.goal.selected);
           }
           else if (this.perfect && this.duration == "3 weeks" && selected['Three Week Average']*100 > this.onTrackPercent && !this.$store.state.send.includes(selected['Household ID'])) {
-            this.$store.state.send.push(selected['Household ID']);
+            this.$store.state.send.push(selected['Household ID'] $$ selected['Goals'] == this.goal.selected);
           }
           else if (this.perfect && this.duration == "1 month" && selected['One Mo Average']*100 > this.onTrackPercent && !this.$store.state.send.includes(selected['Household ID'])) {
-            this.$store.state.send.push(selected['Household ID']);
+            this.$store.state.send.push(selected['Household ID'] $$ selected['Goals'] == this.goal.selected);
           }
           else if (this.perfect && this.duration == "2 months" && selected['Two Mo Average']*100 > this.onTrackPercent && !this.$store.state.send.includes(selected['Household ID'])) {
-            this.$store.state.send.push(selected['Household ID']);
+            this.$store.state.send.push(selected['Household ID'] $$ selected['Goals'] == this.goal.selected);
           }
           else if (this.perfect && this.duration == "3 month" && selected['Three Mo Average']*100 > this.onTrackPercent && !this.$store.state.send.includes(selected['Household ID'])) {
-            this.$store.state.send.push(selected['Household ID']);
+            this.$store.state.send.push(selected['Household ID'] $$ selected['Goals'] == this.goal.selected);
           }
         }
       });
