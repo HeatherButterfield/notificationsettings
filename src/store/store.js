@@ -7,6 +7,7 @@ export const store = new Vuex.Store({
   state: {
     selectionType: null,
     currentSelection: [],
-    saved: []
+    saved: [],
+    send: []
   }
 });

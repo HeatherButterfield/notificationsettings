@@ -1,26 +1,35 @@
 <template>
   <div>
     <h5 class="header">Option 2: Choose clients based on certain criteria</h5>
-    <div class="d-flex item" style="margin-bottom: 0px; margin-top: 40px;">
+    <div class="d-flex item" style="margin-top: 20px;">
       <span class="margin-r">Age</span>
-      <v-slider
-        v-model="age.value"
-        :max="age.max"
-        :min="age.min"
-        thumb-label="always"
-      ></v-slider>
+      <v-text-field
+        class="margin-r"
+        v-model="age.min"
+        label="min"
+        :rules="[v => !!v || 'Required']"
+        outlined
+      ></v-text-field>
+      <h5 class="header margin-r" style="margin-left: 20px;">to</h5>
+      <v-text-field
+        v-model="age.max"
+        label="max"
+        :rules="[v => !!v || 'Required', v => v > 0 || 'Must be a valid number']"
+        outlined
+      ></v-text-field>
     </div>
     <small>Note: Advizr does not store date of birth. Instead, age is calculated based on current date minus year of birth on file.</small>
     <div class="d-flex item" style="margin-top: 20px;">
       <span class="margin-r">Networth</span>
       <v-text-field
+        class="margin-r"
         v-model="networth.min"
         label="min"
         :rules="[v => !!v || 'Required']"
         outlined
         prefix="$"
       ></v-text-field>
-      <h5 class="header margin">to</h5>
+      <h5 class="header margin-r" style="margin-left: 20px;">to</h5>
       <v-text-field
         v-model="networth.max"
         label="max"
@@ -30,7 +39,7 @@
       ></v-text-field>
     </div>
     <div class="d-flex item align-center">
-      <span>Plan Status</span>
+      <span class="margin-r">Plan Status</span>
       <v-radio-group v-model="planStatus" :mandatory="true">
         <v-radio label="Complete" value="Complete"></v-radio>
         <v-radio label="Incomplete" value="Incomplete"></v-radio>
@@ -67,9 +76,8 @@ export default {
   },
   data: () => ({
     age: {
-      value: null,
-      min: 18,
-      max: 65,
+      min: null,
+      max: null,
     },
     networth: {
       min: null,
@@ -82,7 +90,7 @@ export default {
       this.$store.state.selectionType = 'criteria';
       let selected = [];
       clients.map((client) => {
-        if (client["Age"] <= this.age.value && client["Networth"] <= this.networth.max && client["Networth"] >= this.networth.min && client["Plan Status"] == this.planStatus) {
+        if (client["Age"] <= this.age.max && client["Age"] >= this.age.min && client["Networth"] <= this.networth.max && client["Networth"] >= this.networth.min && client["Plan Status"] == this.planStatus) {
           selected.push(client["Full Name"]);
         }
       });

@@ -156,6 +156,7 @@
 </style>
 
 <script>
+import clients from '../assets/clients.json';
 
 export default {
   name: "Settings",
@@ -208,10 +209,71 @@ export default {
         newN.percent = this.onTrackPercent;
         newN.duration = this.duration;
       }
+
+      clients.map((selected) => {
+        if (this.$store.state.currentSelection.includes(selected['Full Name'])) {
+          if (this.retirement && this.duration == "1 week" && selected['One Week Average']*100 < this.cashPercent && !this.$store.state.send.includes(selected['Household ID'])) {
+            this.$store.state.send.push(selected['Household ID']);
+          }
+          else if (this.retirement && this.duration == "2 weeks" && selected['Two Week Average']*100 < this.cashPercent && !this.$store.state.send.includes(selected['Household ID'])) {
+            this.$store.state.send.push(selected['Household ID']);
+          }
+          else if (this.retirement && this.duration == "3 weeks" && selected['Three Week Average']*100 < this.cashPercent && !this.$store.state.send.includes(selected['Household ID'])) {
+            this.$store.state.send.push(selected['Household ID']);
+          }
+          else if (this.retirement && this.duration == "1 month" && selected['One Mo Average']*100 < this.cashPercent && !this.$store.state.send.includes(selected['Household ID'])) {
+            this.$store.state.send.push(selected['Household ID']);
+          }
+          else if (this.retirement && this.duration == "2 months" && selected['Two Mo Average']*100 < this.cashPercent && !this.$store.state.send.includes(selected['Household ID'])) {
+            this.$store.state.send.push(selected['Household ID']);
+          }
+          else if (this.retirement && this.duration == "3 month" && selected['Three Mo Average']*100 < this.cashPercent && !this.$store.state.send.includes(selected['Household ID'])) {
+            this.$store.state.send.push(selected['Household ID']);
+          }
+          if (this.cash && this.duration == "1 week" && selected['One Week Average']*100 > this.cashPercent && !this.$store.state.send.includes(selected['Household ID'])) {
+            this.$store.state.send.push(selected['Household ID']);
+          }
+          else if (this.cash && this.duration == "2 weeks" && selected['Two Week Average']*100 > this.cashPercent && !this.$store.state.send.includes(selected['Household ID'])) {
+            this.$store.state.send.push(selected['Household ID']);
+          }
+          else if (this.cash && this.duration == "3 weeks" && selected['Three Week Average']*100 > this.cashPercent && !this.$store.state.send.includes(selected['Household ID'])) {
+            this.$store.state.send.push(selected['Household ID']);
+          }
+          else if (this.cash && this.duration == "1 month" && selected['One Mo Average']*100 > this.cashPercent && !this.$store.state.send.includes(selected['Household ID'])) {
+            this.$store.state.send.push(selected['Household ID']);
+          }
+          else if (this.cash && this.duration == "2 months" && selected['Two Mo Average']*100 > this.cashPercent && !this.$store.state.send.includes(selected['Household ID'])) {
+            this.$store.state.send.push(selected['Household ID']);
+          }
+          else if (this.cash && this.duration == "3 month" && selected['Three Mo Average']*100 > this.cashPercent && !this.$store.state.send.includes(selected['Household ID'])) {
+            this.$store.state.send.push(selected['Household ID']);
+          }
+          if (this.perfect && this.duration == "1 week" && selected['One Week Average']*100 > this.onTrackPercent && !this.$store.state.send.includes(selected['Household ID'])) {
+            this.$store.state.send.push(selected['Household ID']);
+          }
+          else if (this.perfect && this.duration == "2 weeks" && selected['Two Week Average']*100 > this.onTrackPercent && !this.$store.state.send.includes(selected['Household ID'])) {
+            this.$store.state.send.push(selected['Household ID']);
+          }
+          else if (this.perfect && this.duration == "3 weeks" && selected['Three Week Average']*100 > this.onTrackPercent && !this.$store.state.send.includes(selected['Household ID'])) {
+            this.$store.state.send.push(selected['Household ID']);
+          }
+          else if (this.perfect && this.duration == "1 month" && selected['One Mo Average']*100 > this.onTrackPercent && !this.$store.state.send.includes(selected['Household ID'])) {
+            this.$store.state.send.push(selected['Household ID']);
+          }
+          else if (this.perfect && this.duration == "2 months" && selected['Two Mo Average']*100 > this.onTrackPercent && !this.$store.state.send.includes(selected['Household ID'])) {
+            this.$store.state.send.push(selected['Household ID']);
+          }
+          else if (this.perfect && this.duration == "3 month" && selected['Three Mo Average']*100 > this.onTrackPercent && !this.$store.state.send.includes(selected['Household ID'])) {
+            this.$store.state.send.push(selected['Household ID']);
+          }
+        }
+      });
+
+      console.log(this.$store.state.send);
+
       this.$store.state.currentSelection = [];
       this.$store.state.saved.push(newN);
       this.name = null;
-      console.log(this.$store.state.saved);
     },
     setPerfect() {
       this.perfectMessage = "We just reviewed your " + this.goal.selected + " goal and it looks like you are over " + this.onTrackPercent + "% complete. Keep up the great work and let us know if there is anything we can do to help!";
