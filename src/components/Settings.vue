@@ -258,6 +258,8 @@ export default {
             });
           });
 
+          console.log(response);
+
           const secondOptions = {
             method: 'PUT',
             headers: secondHeaders,
