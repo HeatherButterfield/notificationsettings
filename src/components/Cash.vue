@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <v-app style="padding: 50px;">
     <h2>Which clients would you like to build a notification for?</h2>
     <div class="flex">
       <ChooseClients/>
@@ -21,7 +21,7 @@
     <div class="reset">
       <Settings :cash="true"/>
     </div>
-  </div>
+  </v-app>
 </template>
 
 <style>

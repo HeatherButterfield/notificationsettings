@@ -7,7 +7,7 @@
         class="margin-r"
         v-model="age.min"
         label="min"
-        :rules="[v => !!v || 'Required']"
+        :rules="[v => !!v || 'Required', v => v > 0 || 'Must be a valid number']"
         outlined
       ></v-text-field>
       <h5 class="header margin-r" style="margin-left: 20px;">to</h5>
@@ -45,7 +45,7 @@
         <v-radio label="Incomplete" value="Incomplete"></v-radio>
       </v-radio-group>
     </div>
-    <div class="text-center"><v-btn @click="update" color="rgb(74, 144, 226)" class="white--text" x-large width="300px">Update</v-btn></div>
+    <div class="text-center"><v-btn @click="update" color="#acd13a" class="white--text" x-large width="300px">Update</v-btn></div>
   </div>
 </template>
 

@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <v-app style="padding: 50px;">
     <div v-for="(item, index) in $store.state.saved" v-bind:key="item.name" class="cards">
       <v-card
         max-width="100%"
@@ -30,7 +30,7 @@
         </v-card-actions>
       </v-card>
     </div>
-  </div>
+  </v-app>
 </template>
 
 <style>

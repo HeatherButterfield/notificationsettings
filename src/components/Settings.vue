@@ -119,7 +119,7 @@
     </div>
     <v-dialog v-model="dialog" persistent max-width="340">
       <template v-slot:activator="{ on }">
-        <div class="text-center"><v-btn color="rgb(74, 144, 226)" class="white--text" x-large width="300px" v-on="on">Save</v-btn></div>
+        <div class="text-center"><v-btn color="#acd13a" class="white--text" x-large width="300px" v-on="on">Save</v-btn></div>
       </template>
       <v-card>
         <v-card-title class="headline">What do you want to name your notification?</v-card-title>
@@ -133,8 +133,8 @@
         </div>
         <v-card-actions>
           <v-spacer></v-spacer>
-          <v-btn color="rgb(74, 144, 226)" class="white--text" @click="dialog = false">Cancel</v-btn>
-          <v-btn color="rgb(74, 144, 226)" class="white--text" @click="save">Save</v-btn>
+          <v-btn color="#acd13a" class="white--text" @click="dialog = false">Cancel</v-btn>
+          <v-btn color="#acd13a" class="white--text" @click="save">Save</v-btn>
         </v-card-actions>
       </v-card>
     </v-dialog>
@@ -157,6 +157,7 @@
 
 <script>
 import clients from '../assets/clients.json';
+import response from '../assets/response.json';
 
 export default {
   name: "Settings",
@@ -269,16 +270,66 @@ export default {
         }
       });
 
-      console.log(this.$store.state.send);
+      var myHeaders = new Headers();
+      myHeaders.append("Accept", "application/json");
+      myHeaders.append("Authorization", "Basic YXBpX2ludGVncmF0aW9uc191dnU6VVhGMktXd3pKRWJHQ2R4bw==");
 
-      const response = await fetch("https://testapi.orionadvisor.com/api/v1/security/token", {
+      var requestOptions = {
         method: 'GET',
-        headers: {
-          'Authorization': "Basic VVhGMktXd3pKRWJHQ2R4bw==",
-        }
-      });
-      console.log(response);
+        headers: myHeaders,
+        redirect: 'follow'
+      };
 
+      let token = "";
+
+      fetch("https://api.orionadvisor.com/api/v1/Security/Token?client_id=1697&client_secret=88D65BAD-2DC4-412E-90B7-FD82D5D76BA2", requestOptions)
+        .then(response => response.text())
+        .then(result => {
+          token = JSON.parse(result).access_token;
+          var secondHeaders = new Headers();
+          secondHeaders.append("Accept", "application/json");
+          secondHeaders.append("Content-Type", "application/json");
+          let auth = "Session " + JSON.stringify(token);
+          secondHeaders.append("Authorization", auth);
+
+          this.$store.state.send.map((id) => {
+            response.filters.push({
+                name: "ID = " + id,
+                value: "(function (a) { return a === " + id + "; })",
+                key: "id",
+                include: true
+            });
+          });
+
+          const secondOptions = {
+            method: 'PUT',
+            headers: secondHeaders,
+            redirect: 'follow',
+            body: JSON.stringify(response)
+          };
+
+          fetch("https://api.orionadvisor.com/api/v1/Settings/Views/GroupingViewClientDto/354156", secondOptions)
+            .then(response => response.text())
+            .then(result => console.log(result))
+            .catch(error => console.log('error', error));
+
+          var thirdHeaders = new Headers();
+          thirdHeaders.append("Accept", "application/json");
+          secondHeaders.append("Content-Type", "application/json");
+          secondHeaders.append("Authorization", auth);
+
+          var thirdOptions = {
+            method: 'POST',
+            headers: thirdHeaders,
+            redirect: 'follow'
+          };
+
+          fetch("https://api.orionadvisor.com/api/v1/Reporting/Deliver/Emails/Action/StageEmails", thirdOptions)
+            .then(response => response.text())
+            .then(result => console.log(result))
+            .catch(error => console.log('error', error));
+         })
+        .catch(error => console.log('error', error));
 
       this.$store.state.currentSelection = [];
       this.$store.state.saved.push(newN);

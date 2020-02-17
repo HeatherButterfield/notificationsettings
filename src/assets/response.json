@@ -1,0 +1,208 @@
+{
+  "id": 354156,
+  "name": "Financial Planning UVU (Global)",
+  "pageCode": "GroupingViewclientDto",
+  "filterType": "Any",
+  "isPrivate": false,
+  "slickGridColumnDefs": [
+    {
+      "id": "Id",
+      "name": "ID",
+      "field": "id",
+      "cssClass": "id-col",
+      "headerCssClass": "id-col",
+      "width": 80,
+      "visible": true,
+      "conditionType": "basicNumber",
+      "sortOrder": 0
+    },
+    {
+      "id": "FirstName",
+      "name": "First Name",
+      "field": "firstName",
+      "width": 200,
+      "visible": true,
+      "conditionType": "basicText",
+      "sortOrder": 1
+    },
+    {
+      "id": "LastName",
+      "name": "Last Name",
+      "field": "lastName",
+      "width": 200,
+      "visible": true,
+      "conditionType": "basicText",
+      "sortOrder": 2
+    },
+    {
+      "id": "IsActive",
+      "name": "Active",
+      "field": "isActive",
+      "width": 110,
+      "visible": true,
+      "formatter": "Slick.Formatters.Checkmark",
+      "conditionType": "basicBoolean",
+      "sortOrder": 3
+    },
+    {
+      "id": "CurrentValue",
+      "name": "Current Value",
+      "field": "currentValue",
+      "cssClass": "right-align",
+      "headerCssClass": "right-align",
+      "width": 150,
+      "visible": true,
+      "formatter": "Slick.Formatters.Currency",
+      "conditionType": "basicNumber",
+      "sortOrder": 4
+    },
+    {
+      "id": "Email",
+      "name": "Email",
+      "field": "email",
+      "width": 200,
+      "visible": true,
+      "conditionType": "basicText",
+      "sortOrder": 5
+    },
+    {
+      "id": "BirthDate",
+      "name": "Birth Date",
+      "field": "birthDate",
+      "width": 110,
+      "visible": false,
+      "formatter": "Slick.Formatters.Date",
+      "conditionType": "basicText",
+      "sortOrder": 100
+    },
+    {
+      "id": "BrokerDealer",
+      "name": "Broker Dealer",
+      "field": "brokerDealer",
+      "width": 200,
+      "visible": false,
+      "conditionType": "basicText",
+      "sortOrder": 100
+    },
+    {
+      "id": "City",
+      "name": "City",
+      "field": "city",
+      "width": 200,
+      "visible": false,
+      "conditionType": "basicText",
+      "sortOrder": 100
+    },
+    {
+      "id": "CreatedBy",
+      "name": "Created By",
+      "field": "createdBy",
+      "width": 120,
+      "visible": false,
+      "conditionType": "basicText",
+      "sortOrder": 100
+    },
+    {
+      "id": "CreatedDate",
+      "name": "Created Date",
+      "field": "createdDate",
+      "width": 120,
+      "visible": false,
+      "formatter": "Slick.Formatters.Date",
+      "sortOrder": 100
+    },
+    {
+      "id": "ReportName",
+      "name": "Report Name",
+      "field": "reportName",
+      "width": 200,
+      "visible": false,
+      "conditionType": "basicText",
+      "sortOrder": 100
+    },
+    {
+      "id": "AdditionalAccounts",
+      "name": "Reporting Only Accounts",
+      "field": "additionalAccounts",
+      "visible": false,
+      "conditionType": "basicNumber",
+      "sortOrder": 100
+    },
+    {
+      "id": "RepName",
+      "name": "Representative",
+      "field": "repName",
+      "width": 200,
+      "visible": false,
+      "conditionType": "basicText",
+      "sortOrder": 100
+    },
+    {
+      "id": "RepId",
+      "name": "Representative ID",
+      "field": "repId",
+      "width": 110,
+      "visible": false,
+      "conditionType": "basicNumber",
+      "sortOrder": 100
+    },
+    {
+      "id": "RepNo",
+      "name": "Representative Number",
+      "field": "repNo",
+      "width": 200,
+      "visible": false,
+      "conditionType": "basicText",
+      "sortOrder": 100
+    },
+    {
+      "id": "StartDate",
+      "name": "Start Date",
+      "field": "startDate",
+      "width": 120,
+      "visible": false,
+      "formatter": "Slick.Formatters.Date",
+      "sortOrder": 100
+    },
+    {
+      "id": "State",
+      "name": "State",
+      "field": "state",
+      "width": 200,
+      "visible": false,
+      "conditionType": "basicText",
+      "sortOrder": 100
+    },
+    {
+      "id": "StatementDelivery",
+      "name": "Statement Delivery",
+      "field": "statementDelivery",
+      "width": 200,
+      "visible": false,
+      "conditionType": "basicText",
+      "sortOrder": 100
+    },
+    {
+      "id": "Zip",
+      "name": "Zip",
+      "field": "zip",
+      "width": 200,
+      "visible": false,
+      "conditionType": "basicText",
+      "sortOrder": 100
+    }
+  ],
+  "filters": [
+    
+  ],
+  "groups": [],
+  "sorts": [],
+  "dynamicGroupingInfo": {
+    "reporting": true,
+    "trading": false,
+    "repProfileAssignment": false,
+    "compass": false
+  },
+  "canEdit": true,
+  "isUserDefault": false
+}
