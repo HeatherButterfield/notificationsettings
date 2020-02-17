@@ -12,7 +12,7 @@
       chips
       style="width: 100%;"
     ></v-select>
-    <div class="text-center"><v-btn @click="setSelected" color="#acd13a" class="white--text" x-large style="width: 300px;">Update</v-btn></div>
+    <div class="text-center"><v-btn @click="setSelected" color="#acd13a" class="white--text" x-large style="width: 300px; color: #394e73;">Update</v-btn></div>
   </v-container>
 </template>
 

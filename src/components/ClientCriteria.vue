@@ -38,13 +38,6 @@
         prefix="$"
       ></v-text-field>
     </div>
-    <div class="d-flex item align-center">
-      <span class="margin-r">Plan Status</span>
-      <v-radio-group v-model="planStatus" :mandatory="true">
-        <v-radio label="Complete" value="Complete"></v-radio>
-        <v-radio label="Incomplete" value="Incomplete"></v-radio>
-      </v-radio-group>
-    </div>
     <div class="text-center"><v-btn @click="update" color="#acd13a" class="white--text" x-large width="300px">Update</v-btn></div>
   </div>
 </template>
@@ -90,7 +83,7 @@ export default {
       this.$store.state.selectionType = 'criteria';
       let selected = [];
       clients.map((client) => {
-        if (client["Age"] <= this.age.max && client["Age"] >= this.age.min && client["Networth"] <= this.networth.max && client["Networth"] >= this.networth.min && client["Plan Status"] == this.planStatus) {
+        if (client["Age"] <= this.age.max && client["Age"] >= this.age.min && client["Networth"] <= this.networth.max && client["Networth"] >= this.networth.min) {
           selected.push(client["Full Name"]);
           this.$store.state.selectedIds.push(client['Household ID']);
         }
