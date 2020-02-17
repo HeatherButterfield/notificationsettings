@@ -34,7 +34,7 @@
     background: url("./assets/header.png");
     background-repeat: no-repeat;
     background-size: contain;
-    padding-top: 295px;
+    padding-top: 23.5%;
   }
   h1, h2 {
     color: #394e73;
