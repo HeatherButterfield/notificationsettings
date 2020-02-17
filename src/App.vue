@@ -1,21 +1,21 @@
 <template>
   <div class="background">
-    <v-btn x-large @click="one" :color="color1" style="margin: 20px 20px 40px 80px">
+    <v-btn x-large @click="one" :color="color1" style="margin: 1.5% 2% 5% 7%">
       <router-link to="/retirement" tag="span">
         <span class="link">OFF-TRACK RETIREMENT</span>
       </router-link>
     </v-btn>
-    <v-btn x-large @click="two" :color="color2" style="margin: 20px 20px 40px 20px">
+    <v-btn x-large @click="two" :color="color2" style="margin: 1.5% 2% 5% 2%">
       <router-link to="/cash" tag="span">
         <span class="link">EXCESS CASH</span>
       </router-link>
     </v-btn>
-    <v-btn x-large @click="three" :color="color3" style="margin: 20px 20px 40px 20px">
+    <v-btn x-large @click="three" :color="color3" style="margin: 1.5% 2% 5% 2%">
       <router-link to="/perfect" tag="span">
         <span class="link">GOALS ARE PROSPERING</span>
       </router-link>
     </v-btn>
-    <v-btn x-large @click="four" :color="color4" style="margin: 20px 20px 40px 20px">
+    <v-btn x-large @click="four" :color="color4" style="margin: 1.5% 2% 5% 2%">
       <router-link to="/saved" tag="span">
         <span class="link">SAVED NOTIFICATIONS</span>
       </router-link>
