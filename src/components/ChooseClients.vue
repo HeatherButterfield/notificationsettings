@@ -27,7 +27,7 @@
 </style>
 
 <script>
-import clients from '../assets/clients.json';
+import goals from '../assets/goals.json';
 
 export default {
   name: "Choose",
@@ -36,19 +36,14 @@ export default {
   },
   data: () => ({
     selected: [],
+    clients: []
   }),
   methods: {
-    getClients() {
-      clients.forEach(function(client) {
-        console.log(client['Full Name']);
-        this.clientNames.push(client['Full Name']);
-      });
-    },
     setSelected() {
-      clients.map((client) => {
-        if (this.selected.includes(client['Household ID'])) {
-          this.$store.state.currentSelection.push(client['Full Name']);
-          this.$store.state.selectedIds.push(client['Household ID']);
+      goals.map((client) => {
+        if (this.selected.includes(client.HouseholdID) && !this.$store.state.selectedIds.includes(client.HouseholdID)) {
+          this.$store.state.currentSelection.push(client.FullName);
+          this.$store.state.selectedIds.push(client.HouseholdID);
         }
       });
     }
@@ -56,11 +51,13 @@ export default {
   computed: {
     names() {
       let clientNames = [];
-      clients.map((client) => {
-        clientNames.push({
-          text: client['Full Name'],
-          value: client['Household ID'],
-        });
+      goals.map((client) => {
+        if (!clientNames.includes({text: client.FullName, value: client.HouseholdID,})) {
+          clientNames.push({
+            text: client.FullName,
+            value: client.HouseholdID,
+          });
+        }
       });
       return clientNames;
     },

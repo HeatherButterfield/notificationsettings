@@ -59,7 +59,7 @@
 </style>
 
 <script>
-import clients from '../assets/clients.json';
+import goals from '../assets/goals.json';
 
 export default {
   name: "Criteria",
@@ -82,10 +82,10 @@ export default {
     update() {
       this.$store.state.selectionType = 'criteria';
       let selected = [];
-      clients.map((client) => {
-        if (client["Age"] <= this.age.max && client["Age"] >= this.age.min && client["Networth"] <= this.networth.max && client["Networth"] >= this.networth.min) {
-          selected.push(client["Full Name"]);
-          this.$store.state.selectedIds.push(client['Household ID']);
+      goals.map((client) => {
+        if (2020-client.YearofBirth <= this.age.max && 2020-client.YearofBirth >= this.age.min && client.Networth <= this.networth.max && client.Networth >= this.networth.min && !this.$store.state.selectedIds.includes(client.HouseholdID)) {
+          selected.push(client.FullName);
+          this.$store.state.selectedIds.push(client.HouseholdID);
         }
       });
       this.$store.state.currentSelection = selected;
