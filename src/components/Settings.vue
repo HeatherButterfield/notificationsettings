@@ -174,9 +174,9 @@ export default {
       selected: null,
       items: ['Education', 'Retirement', 'Home Purchase', 'Debt Management']
     },
-    retMessage: "It looks like your retirement plan has strayed off track a bit more than we are comfortable with. Reach out to your advisor to get it back on track.",
-    cashMessage: "You have a significant amount of money sitting in cash. Let's earn some interest! Meet with your advisor to see where to best invest some of that money.",
-    perfectMessage: "We just reviewed your goal and it looks like you have completed a large percentage. Keep up the great work and let us know if there is anything we can do to help!",
+    retMessage: "It looks like your retirement plan has strayed off track a bit more than we are comfortable with. Reach out to your advisor to get it back on track. Was this helpful? Yes https://naughty-boyd-77b468.netlify.com/#/yes No https://naughty-boyd-77b468.netlify.com/#/no Opt Out https://naughty-boyd-77b468.netlify.com/#/optout",
+    cashMessage: "You have a significant amount of money sitting in cash. Let's earn some interest! Meet with your advisor to see where to best invest some of that money. Was this helpful? Yes https://naughty-boyd-77b468.netlify.com/#/yes No https://naughty-boyd-77b468.netlify.com/#/no Opt Out https://naughty-boyd-77b468.netlify.com/#/optout",
+    perfectMessage: "We just reviewed your goal and it looks like you have completed a large percentage. Keep up the great work and let us know if there is anything we can do to help! Was this helpful? Yes https://naughty-boyd-77b468.netlify.com/#/yes No https://naughty-boyd-77b468.netlify.com/#/no Opt Out https://naughty-boyd-77b468.netlify.com/#/optout",
     type: null,
     sendTo: null,
     dialog: false,
@@ -295,7 +295,7 @@ export default {
       this.name = null;
     },
     setPerfect() {
-      this.perfectMessage = "We just reviewed your " + this.goal.selected + " goal and it looks like you are over " + this.onTrackPercent + "% complete. Keep up the great work and let us know if there is anything we can do to help!";
+      this.perfectMessage = "We just reviewed your " + this.goal.selected + " goal and it looks like you are over " + this.onTrackPercent + "% complete. Keep up the great work and let us know if there is anything we can do to help! Was this helpful? Yes https://naughty-boyd-77b468.netlify.com/#/yes No https://naughty-boyd-77b468.netlify.com/#/no Opt Out https://naughty-boyd-77b468.netlify.com/#/optout";
     }
   }
 };
