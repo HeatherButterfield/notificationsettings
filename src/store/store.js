@@ -9,6 +9,8 @@ export const store = new Vuex.Store({
     currentSelection: [],
     selectedIds: [],
     saved: [],
-    send: []
+    send: [],
+    feedback: [],
+    notification: false
   }
 });
